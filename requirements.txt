@@ -1,0 +1,13 @@
+datasets
+scikit-learn
+transformers
+peft
+hf_xet
+bitsandbytes
+huggingface_hub
+accelerate
+torch
+torchvision
+torchaudio
+matplotlib
+seaborn
