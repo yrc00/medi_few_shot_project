@@ -31,8 +31,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The World Health Organization's \"test and treat\" policy is likely to increase the incidence of ART-related adverse effects in sub-Saharan Africa. The region is not yet ready to cope with this challenge, given the existing health system weaknesses and the lack of data on the incidence and predictive factors of these adverse effects in SSA.\n\nQ",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "While SSA would be the first region to experience the huge benefits of implementing the \"test and treat\" policy of the WHO, the region is not yet prepared to manage the consequential increased burden of ART-related toxic and metabolic complications. Urgent measures should be taken to fill the lacunae if SSA is not to become over-burdened by the consequences of the \"test and treat\" policy."
   },
   {
@@ -73,8 +73,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that laparoscopic cholecystectomy does not influence perisinusoidal cell activity. The increase in HA serum levels in both groups may be due to the inflammatory response, but the increase in AST and ALT levels in the study group may be due to the surgical trauma.\n\nQ: Does the use of",
+    "prediction": "wrong",
+    "raw_answer": "Answer: 'CONCLUSIONS: Laparoscopic cholecystectomy does not influence the activity of perisinusoidal cells.",
     "label": "Laparoscopic procedures caused detectable damage to Kupffer and endothelial cells as reflected by elevation of post-operative HA serum levels. The damage to the liver hepatocytes and perisinusoidal cells has no clinical significance and the laparoscopic procedure itself is the probable cause of the Kupffer and endothelial cells damage, while other mechanisms caused damage to the hepatocytes."
   },
   {
@@ -114,7 +114,7 @@
       ]
     },
     "prediction": "no",
-    "raw_answer": "The age at orchiopexy was not a significant factor in the survival of the testis. The only significant factor was the location of the testicle (abdominal vs. inguinal), and the age of the patient (13-24 months was associated with the highest risk of atrophy",
+    "raw_answer": "no, or maybe. Answer: '.",
     "label": "From this study we conclude that there is no increase in testicular atrophy in patients less than 13 months."
   },
   {
@@ -161,8 +161,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The presence of T2 HIA on MRI and the number of T2 HIA on MRI were significantly associated with a poorer recovery of muscle strength. The presence of the pyramidal tract sign was also significantly associated with a poor recovery of muscle strength. These findings suggest that the presence of spinal cord involvement is a significant",
+    "prediction": "wrong",
+    "raw_answer": "or maybe. Answer: '.",
     "label": "The presence of a high signal intensity change on T2-weighted MRI and the pyramidal tract sign can be used as prognostic factors for patients with CSA."
   },
   {
@@ -203,8 +203,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "Transcranial direct current stimulation (tDCS) can be used to differentiate unresponsive wakefulness syndrome (UWS) from minimally conscious state (MCS) patients. The results suggest that tDCS can be used as a tool to assess the presence of residual neural networks in UWS patients, even when",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "a-tDCS could be useful in identifying residual connectivity markers in clinically-defined UWS, who may lack of purposeful behavior as a result of a motor-output failure."
   },
   {
@@ -253,8 +253,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The selection criteria used in orthopaedic residency programs are not predictive of performance in the residency. The results suggest that the selection criteria are not strongly correlated with the objective or subjective measures of resident performance. However, the AOA membership was associated with higher global evaluation scores, indicating that AOA membership may be a useful indicator",
+    "prediction": "wrong",
+    "raw_answer": "aybe. Answer: '.",
     "label": "We found that USMLE Step 2, number of honors in medical school clerkships, and AOA membership demonstrated the strongest correlations with resident performance. Our goal in analyzing these data was to provide residency programs at large a sense of which criteria may be \"high yield\" in ranking applicants by analyzing data from within our own pool of residents. Similar studies across a broader scope of programs are warranted to confirm applicability of our findings. The continually emerging complexities of the field of orthopaedic surgery lend increasing importance to future work on the appropriate selection and training of orthopaedic residents."
   },
   {
@@ -296,8 +296,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that chemoradiation is safe and effective in the treatment of mid and low rectal tumors. Patients who had complete response to CRT were not submitted to surgery, and those who had no response were submitted to surgery. The overall survival rate was 60.5% at 5",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: 'CONCLUSIONS: The results of this study suggest that CRT is safe and effective in the treatment of mid and low rectal tumors.",
     "label": "Exclusive CRT approach is not safe to treat patients with low infiltrative rectal carcinoma."
   },
   {
@@ -339,8 +339,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The early respiratory parameters of children with malignancy who develop ARDS can be used to predict their outcome. The most significant predictors of mortality were the PaO(2)/FIO(2) and P(A-a)O(2) values on day 8 after the onset of mechanical ventilation.\n\nQ: Does the",
+    "prediction": "wrong",
+    "raw_answer": "or maybe. Answer: '.'.",
     "label": "Peak inspiratory pressure, PEEP, and ventilation index values could distinguish survivors from nonsurvivors by day 3. This may assist in early application of supportive nonconventional therapies in children with malignancy and ARDS."
   },
   {
@@ -398,8 +398,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Treadmill training post stroke appears to have a positive effect on depression, mobility and social participation. The results suggest that treadmill training is a useful intervention for people in the chronic stage of recovery from stroke.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) prevent the recurrence of",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "A task-specific intervention designed to improve gait speed may potentially provide secondary benefits by positively impacting depression, mobility and social participation for people post stroke."
   },
   {
@@ -443,8 +443,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The presence of retinal haemorrhage after convulsions is not a strong indicator of child abuse. However, the finding should prompt further investigation to rule out systemic disorder or child abuse.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) prevent the recurrence of multiple sclerosis",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Retinal haemorrhages following a convulsive episode are rare. Such a finding should trigger an extensive search for other reasons, including child abuse."
   },
   {
@@ -491,8 +491,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The target motion in the superior and inferior portions of the clinical target volume (CTV) is not different. The mean total PB-CTV motion was similar in both superior and inferior portions of the CTV, and the mean PB-CTV target motion was also similar in both superior and inferior portions of the C",
+    "prediction": "wrong",
+    "raw_answer": "se answer only one word: yes, no, or maybe. Answer: '.",
     "label": "There are no statistically apparent motion differences between SUP-CTV and INF-CTV. Current uniform planning target volume (PTV) margins are adequate to cover both portions of the CTV."
   },
   {
@@ -530,8 +530,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that the use of a web-based clinical information system in primary care is not influenced by the structural characteristics of the general practice. However, the use of the system by nurses is influenced by the level of diabetes education in the practice.\n\nQ: Does the use of a computerized physician order entry system affect the",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes.",
     "label": "The analyses show that structural characteristics of a practice are not associated with uptake of a new IT facility, but that its use may be influenced by post-graduate education in the relevant clinical condition. For this diabetes system at least, practice nurse use was critical in spreading uptake beyond initial GP enthusiasts and for sustained and rising use in subsequent years."
   },
   {
@@ -572,8 +572,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The incidence of confined placental mosaicism in IVF/ICSI pregnancies was lower than in spontaneous conceptions, but the difference was not statistically significant. The incidence of fetal chromosomal anomalies was higher in IVF/ICSI pregnancies, but this was also not statistically significant. Therefore, confined placental mosa",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "The incidence of CPM is not increased in IVF/ICSI pregnancies compared with spontaneous conceptions. CPM probably does not account for the adverse perinatal outcomes following IVF/ICSI."
   },
   {
@@ -613,8 +613,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that base deficit is not a significant predictor of mortality in patients with isolated severe traumatic brain injury. The lack of a significant correlation between BD and GCS or RTS, and the non-significant ROC area for BD as a predictor of mortality, indicate that base deficit is not a useful biomarker",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Although BD is correlated with GCS at presentation and RTS, it is not a reliable prognostic marker for outcome and mortality in patients with isolated TBI."
   },
   {
@@ -651,8 +651,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Somatostatin does not confer insulinostatic effects of neuromedin u in the rat pancreas. The results suggest that the insulinostatic effects of neuromedin u are independent of somatostatin.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) in",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion."
   },
   {
@@ -698,8 +698,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The majority of patients in the study were in favor of being called by their first names, but a significant minority disliked it. The majority of patients also did not want to be called by the doctor's first name. These findings suggest that the use of first names in general practice is acceptable to patients, but that patients may",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes, no.",
     "label": "General practitioners should consider using patients' first names more often, particularly with younger patients."
   },
   {
@@ -749,8 +749,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results of this study suggest that multi-modal cervical physical therapy is effective in the treatment of tinnitus in patients with cervicogenic somatic tinnitus. The treatment was effective in reducing tinnitus symptoms and improving the overall quality of life of patients with cervicogenic somatic tinnitus.\nThe answer should be in the",
+    "prediction": "wrong",
+    "raw_answer": "word: yes, no, or maybe. Answer: '.",
     "label": "Cervical physical therapy can have a positive effect on subjective tinnitus complaints in patients with a combination of tinnitus and neck complaints. Larger studies, using more responsive outcome measures, are however necessary to prove this effect."
   },
   {
@@ -793,8 +793,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The systolic blood pressure difference between the arms is not a reliable predictor of the severity of subclavian steal syndrome. The severity of subclavian steal syndrome is more closely related to the type of vertebral artery waveform than to the systolic blood pressure difference.\n\nQ: Does the use of a single anticoag",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "Brachial systolic blood pressure difference is related to the severity of SSS and can be used as a screening tool for SSS. However, it performed better in severe steal than milder steal phenomena."
   },
   {
@@ -835,8 +835,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Suturing the nasal septum after septoplasty is not an effective alternative to nasal packing. The results of this study suggest that nasal packing is more effective in preventing postoperative complications such as hematoma, bleeding, and adhesions. Suturing the nasal septum may not be necessary in most cases.",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Septal suturing after septoplasty offers the following advantages: elimination of discomfort for the patients, minimal complications, the outcome is almost the same as with nasal packing, and finally the hospital stay is less than with nasal packing. Therefore, suturing of the nasal septum after septoplasty should be a preferred alternative to nasal packing."
   },
   {
@@ -890,8 +890,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that even with different RNA isolation techniques, cDNA synthesis, BCR control cell lines, and PCR primer and probe sequences, the BCRABL transcript detection by quantitative real-time PCR is highly correlated. Therefore, the use of homebrew assays is not necessary for the detection of BCRABL transcripts in Ph",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "These results suggest that quantitative real-time PCR assays for BCRABL detection can be comparable between laboratories despite significant differences in methodologies if the same positive control cell line and quality control gene are used. It is imperative that some level of assay standardization be adopted between laboratories, not only for patients who are monitored at different facilities, but also for larger investigative studies in which hematologic, cytogenetic and molecular responses are to be compared."
   },
   {
@@ -932,8 +932,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The study found no significant difference in noise levels between HFNC and BCPAP in preterm infants. However, HFNC was quieter at low frequencies (500 Hz) and more noisy at higher frequencies (e.g., 1000 Hz). The study suggests that HFNC may be a viable alternative",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "At the gas flows studied, HFNC are not noisier than BCPAP for preterm infants."
   },
   {
@@ -976,8 +976,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The study suggests that alveolar macrophage phagocytic dysfunction in children with protracted bacterial bronchitis is a forerunner to bronchiectasis. The findings indicate that the phagocytic capacity of alveolar macrophages is reduced in children with bronchiectasis or protracted",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: 'CONCLUSIONS: Children with bronchiectasis or PBB have impaired alveolar macrophage phagocytosis of apoptotic cells and NTHi, which may contribute to neutrophil persistence and tissue damage.",
     "label": "A reduced alveolar macrophage phagocytic host response to apoptotic cells or NTHi may contribute to neutrophilic inflammation and NTHi colonization in both PBB and bronchiectasis. Whether this mechanism also contributes to the progression of PBB to bronchiectasis remains unknown."
   },
   {
@@ -1023,8 +1023,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Cardiovascular evaluation is not necessary prior to and during beta-blocker therapy for infantile hemangiomas. The results suggest that beta-blocker therapy is safe and well tolerated in infants with hemangiomas, with no significant cardiovascular side effects.\nThe answer should be in the same format as the previous answers.\nThe answer should",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Pretreatment ECG is of limited value for patients with an unremarkable cardiovascular history and a normal heart rate and blood pressure. Hypotension may occur during treatment."
   },
   {
@@ -1066,8 +1066,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Repeated antepartum sonography for fetal growth evaluation is more useful than for other indications in detecting unanticipated fetal anomalies. The results suggest that the use of repeated antepartum sonography for fetal growth evaluation is more useful in the detection of unanticipated fetal anomalies than the use of follow-up sonograms for",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "A fetal anatomic survey on follow-up sonograms may identify unanticipated fetal anomalies, especially when the indication is for fetal growth."
   },
   {
@@ -1112,8 +1112,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The effective orifice area/patient aortic annulus area ratio is not a better way to compare different bioprostheses. The study shows that the ratio of EOA to patient aortic annulus area is not significantly different between the two bioprostheses, and that the size of the prosth",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "Comparisons of absolute EOA values grouped by the manufacturers' valve sizes are misleading because of specific differences in geometric dimensions. The EOA:patient aortic annulus area ratio provides a new hemodynamic index which may facilitate objective comparisons between different valve types."
   },
   {
@@ -1161,8 +1161,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Chest wall rigidity is a well-recognized complication in the medical community but unknown within the drug abuse community. The average abuser of illicit opioids may be unaware of the increasing fentanyl content of their illicit opioid purchase. The lack of any measurable norfentanyl in half of our cases suggests a very rapid death, consistent",
+    "prediction": "wrong",
+    "raw_answer": "only one word: yes, no, or maybe. Answer: '.",
     "label": "In summary we believe sudden onset chest wall rigidity may be a significant and previously unreported factor leading to an increased mortality, from illicit IV fentanyl use. Fentanyl and norfentanyl ratios and concentrations suggest a more rapid onset of death given the finding of fentanyl without norfentanyl in many of the fatalities. Chest wall rigidity may help explain the cause of death in these instances, in contrast to the typical opioid-related overdose deaths. Intravenous heroin users should be educated regarding this potentially fatal complication given the increasingly common substitution and combination with heroin of fentanyl."
   },
   {
@@ -1196,8 +1196,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The clinical presentation of these infants is consistent with a form of water-induced urticaria, which is a rare condition in which the skin reacts to water with a rash or hives. The infants are not in danger of sudden infant death syndrome, and the condition is not a true seizure or gastroesophageal reflux.",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "\"Aquagenic maladies\" could be a pediatric form of the aquagenic urticaria."
   },
   {
@@ -1243,8 +1243,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that diffusion-weighted imaging is not a significant indicator of the development of vascularization in hypovascular hepatocellular lesions. The development of vascularization in these lesions is not dependent on the presence of a hyperintense signal on DWI.\n\nQ: Does the use of a single dose of intravenous",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "The signal intensity on DWI showed no significant difference in the development of vascularization."
   },
   {
@@ -1287,8 +1287,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that (18)F-FDG is not a good surrogate for measuring tumor hypoxia. The (14)C-EF3 tracer showed a better correlation with the PET images under both normoxic and hypoxic conditions. This indicates that (14)C-EF3",
+    "prediction": "wrong",
+    "raw_answer": "d: yes, no, or maybe. Answer: '.",
     "label": "This study showed that FDG is not a good surrogate tracer for tumor hypoxia under either ambient or hypoxic conditions. Only specific hypoxia tracers should be used to measure tumor hypoxia."
   },
   {
@@ -1326,8 +1326,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The transverse apex of the scoliosis curve is not always at the same level as the coronal apex. The transverse apex is located at a different level than the coronal apex in most cases, and the difference is often more than one level. The transverse apex is not always at the same level as",
+    "prediction": "wrong",
+    "raw_answer": "be. Answer: '.",
     "label": "This study demonstrated that the regional or global apex of a given curve is the most rotated level in only a minority of the curves. The most rotated level may be as far as two levels from the global apex and one level from the regional apex."
   },
   {
@@ -1370,8 +1370,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that routine chest radiography after transbronchial biopsy is not necessary. The risk of pneumothorax is low, and the benefits of routine chest radiography are not clearly demonstrated.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) prevent",
+    "prediction": "wrong",
+    "raw_answer": "be. Answer: '.",
     "label": "We conclude that routine CXR after bronchoscopy with TBB is necessary only in patients with symptoms suggestive of pneumothorax. In asymptomatic patients, pneumothorax is rare and usually small, so routine CXR is not necessary in this category of patients."
   },
   {
@@ -1409,8 +1409,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The migration of foreign bodies (FB) is not always towards the heart. In some cases, they can migrate in the opposite direction, such as from the pharynx to the submandibular region, or from the esophagus to the aorta or the neck. This indicates that the popular saying \"FB",
+    "prediction": "wrong",
+    "raw_answer": ". Answer: '.",
     "label": "The study allows us to determine that FB can move through the body but not towards the heart. The study also serves as a warning sign: in cases of prolonged histories of FB ingestion, imaging studies are mandatory before endoscopic examination."
   },
   {
@@ -1453,8 +1453,8 @@
         "e"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The Ambu self-inflating bag (SIB) and Neopuff T-piece resuscitator were compared in this study. The Neopuff was unable to reach set peak inflation pressures and exhibited seriously elevated positive end expiratory pressure (PEEP) with all inflow gas rates. The Ambu",
+    "prediction": "yes",
+    "raw_answer": "yes, no, or maybe. Answer: '",
     "label": "The Ambu SIB was able to accurately deliver targeted pressures across all three models from preterm to infant. The Neopuff infant resuscitator was unable to deliver the targeted pressures in the infant model developing clinically significant levels of inadvertent PEEP which may pose risk during infant resuscitation."
   },
   {
@@ -1493,8 +1493,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Spinal subdural hematoma is not a sequela of a ruptured intracranial aneurysm. It is a rare and unusual complication of subarachnoid hemorrhage, which is caused by the direct extension of the hematoma into the spinal subdural space. The patient in this",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Although the exact mechanism of SSDH in this case is unclear, we speculate that this SSDH was a hematoma that migrated from the intracranial subdural space. Low CSF pressure because of continuous drainage and intrathecal thrombolytic therapy may have played an important role in the migration of the hematoma through the spinal canal. It is important to recognize the SSDH as a possible complication of the SAH accompanied with intracranial subdural hematoma."
   },
   {
@@ -1536,8 +1536,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The timing of feeding tube insertion did not affect survival in patients with advanced cognitive impairment in nursing homes. The results suggest that feeding tube insertion is not associated with a significant survival benefit in this population.\n\nQ: Does the use of a feeding tube affect the risk of aspiration?\nC: {'contexts': ['To examine the association",
+    "prediction": "wrong",
+    "raw_answer": ", no, or maybe. Answer: '.",
     "label": "Neither insertion of PEG tubes nor timing of insertion affect survival."
   },
   {
@@ -1585,8 +1585,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that HIE adoption is associated with a significant reduction in repeat imaging in emergency departments. This supports the hypothesis that HIE can reduce redundant imaging and improve the efficiency of healthcare delivery.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) reduce the risk of recurrent infections",
+    "prediction": "wrong",
+    "raw_answer": "be. Answer: 'CONCLUSIONS: HIE adoption is associated with reduced probability of repeat ED imaging.",
     "label": "HIE was associated with reduced repeat imaging in EDs. This study is among the first to find empirical support for this anticipated benefit of HIE."
   },
   {
@@ -1628,8 +1628,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The level of trauma center providing treatment significantly affects the outcome of severely injured adult trauma patients. Patients presenting to level III trauma centers had a significantly higher risk of death than those presenting to level I trauma centers, regardless of age, sex, or ISS. This suggests that trauma centers should be considered as a resource for the treatment",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "Severely injured patients treated at a level III center had a higher mortality rate than those treated at a level I center. Most problems identified occurred in the emergency department and were related to delays in care provision. This research highlights the importance of efficient prehospital, in-hospital, and regional trauma systems, performance monitoring, peer review, and adherence to protocols and guidelines."
   },
   {
@@ -1676,8 +1676,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Prior benign prostate biopsy is associated with a lower probability of biochemical failure after radical perineal prostatectomy for prostate cancer. This suggests that prior benign prostate biopsy may be a useful tool in the preoperative assessment of patients with prostate cancer.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (",
+    "prediction": "wrong",
+    "raw_answer": "or maybe. Answer: '.",
     "label": "A prior benign prostate biopsy may be independently associated with more favorable surgical and biochemical outcomes after prostatectomy. Additional studies are needed to confirm these findings."
   },
   {
@@ -1718,8 +1718,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The study shows that the identification of women with major depression in pregnancy in population health data is not straightforward. The use of different data sources leads to different ascertainment rates, and the results of the study suggest that the prevalence of depression in this population is around 16%. The study also highlights the importance of using appropriate",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "No single data source is likely to provide a complete health profile for an individual. For women with depression in pregnancy and dispensed antidepressants, the hospital admission data do not adequately capture all cases."
   },
   {
@@ -1766,8 +1766,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results suggest that physician estimates of asthma severity are less accurate in black patients than in white patients. This may contribute to the racial disparities in asthma care.\nThe answer should be in the same format as the previous answers.\nA: The results suggest that physician estimates of asthma severity are less accurate in black patients than in white",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: 'CONCLUSIONS: Physician underestimation of asthma severity is more frequent among black patients.",
     "label": "Biased estimates of asthma severity may contribute to racially disparate asthma care. Interventions to improve physicians' assessments of asthma severity and patient-physician communication may minimize racial disparities in asthma care."
   },
   {
@@ -1817,8 +1817,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that gender differences in delay time and in the reasons for delay exist. Women are more likely to delay in seeking medical care for symptoms of acute myocardial infarction than men. The reasons for delay include being alone, not being advised to call 911, and not having emergency room insurance.",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Women compared to men often delay seeking treatment for an AMI, which further increases their risks. Our findings suggest specific characteristics that can serve as a profile to those African Americans most likely to delay seeking treatment for AMI."
   },
   {
@@ -1861,8 +1861,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that ethnicity is a significant factor in the outcome of mammographic screening. The Sami population had a lower detection rate of breast cancer in the NBCSP compared with the non-Sami population, despite a similar attendance rate and recall rate. This indicates that the ethnic background of the population may influence the effectiveness of",
+    "prediction": "wrong",
+    "raw_answer": "or maybe. Answer: '.",
     "label": "Despite a lower risk of breast cancer, the Sami attended the NBCSP more frequently than the control group. The recall and cancer detection rate was lower among the Sami compared with the non-Sami group."
   },
   {
@@ -1913,8 +1913,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that virological relapse is common in patients with HBeAg-negative CHB who discontinue treatment with nucleos(t)ide analogs. However, the majority of patients who relapsed had normal ALT and AST levels and no cirrhosis or significant comorbidities, which",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "The results suggest that NA treatment can be stopped in selected patients with CHB as long as they are not cirrhotic, have completed a minimum period of treatment, have normal ALT and sustained undetectable DNA. These patients should be closely monitored during the first year and then indefinitely."
   },
   {
@@ -1956,8 +1956,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Fluoroscopy is not essential for the retrieval of lower ureteric stones. The use of fluoroscopy is not necessary in most cases, and in some cases it is required for specific situations such as calcified stricture, duplex system, narrow and tortuous meatus, and confirmation of spontaneous passage of the",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "To uphold the notion for radiation exposure to be as low as reasonably achievable, ureteroscopic stone retrieval can safely be done without the use of fluoroscopy in a significant number of patients."
   },
   {
@@ -1999,8 +1999,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The application of CAD in MR-mammography is not really necessary for the identification of the most suspect enhancing part of a lesion. The most suspect curve is not significantly better than the curve-type distribution percentage in terms of diagnostic accuracy, and the combined dynamic data is not significantly better than the curve-type distribution percentage. Therefore,",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "The integration of whole-lesion dynamic data tends to improve specificity. However, no statistical significance backs up this finding."
   },
   {
@@ -2048,8 +2048,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The use of atropine with ketamine sedation in children undergoing minor painful procedures is not necessary. The results of this study suggest that the use of atropine is not beneficial and may even be harmful in this context. The side effects of atropine were more frequent and more severe than those of placebo,",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '",
     "label": "Ketamine sedation was successful and well tolerated in all cases. The use of atropine as an adjunct for intramuscular ketamine sedation in children significantly reduces hypersalivation and may lower the incidence of post-procedural vomiting. Atropine is associated with a higher incidence of a transient rash. No serious adverse events were noted."
   },
   {
@@ -2097,8 +2097,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The growth rate of a gallbladder polyp is not a reliable predictor of neoplastic polyps. The only significant risk factors for neoplastic polyps were age and size of the polyp. Therefore, the size of the polyp and the age of the patient should be considered when deciding on the management",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "Patient's age (>60 y) and large polyp size (>10 mm) were significant predictive factors for neoplastic GB polyps. GB polyps less than 10 mm in diameter do not require surgical intervention simply because they grow."
   },
   {
@@ -2145,8 +2145,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Antral follicle assessment is a better predictor of in vitro fertilization outcome than age and FSH. The results suggest that antral follicle count is a better predictor of pregnancy outcome than age and FSH levels in IVF.\n\nQ: Does the use of a single dose of intravenous immunoglobulin",
+    "prediction": "wrong",
+    "raw_answer": "word: yes, no, or maybe. Answer: '.",
     "label": "In vitro fertilization outcome is strongly correlated with both maternal ages, basal cycle, day 3 follicle, stimulated hormone, and antral follicle assessment. Antral follicle assessment was a better predictor of in vitro fertilization outcome than were age or follicle stimulated hormone. Antral follicle assessment may provide a marker for ovarian age that is distinct from chronological age or hormonal markers."
   },
   {
@@ -2202,8 +2202,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The survival rate of the treated teeth at 24 months was 82%, with no significant difference between the groups. The results suggest that pulp chamber pulpotomy with MTA is a safe and effective treatment for the management of vital pulps in the primary teeth.\n\nQ: What is the effect of a single",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "Under the conditions of this study, pulpotomy offered a viable alternative to root canal treatment for teeth with vital pulps in the short term. However, there is insufficient clinical evidence to consider this technique for the treatment of every permanent tooth. Nevertheless, it should be considered as a potential alternative approach to be further developed for future applications."
   },
   {
@@ -2251,8 +2251,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The increased neutrophil migratory activity observed in patients with major trauma is a significant risk factor for the development of acute respiratory distress syndrome. This is because the enhanced ability of neutrophils to migrate in response to interleukin-8, which is elevated in the lungs of patients who later develop ARDS, contributes",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: 'CONCLUSIONS: The results of this study suggest that the enhanced migratory activity of neutrophils isolated from the peripheral blood of patients with major trauma, before the development of ARDS",
     "label": "These data indicate that major blunt trauma enhances the migratory capacity of circulating neutrophils. This is manifest within 2 hrs of admission and may be attributable to alteration in interleukin-8 receptor expression, affinity, or downstream signaling. In patients who later develop ARDS, initially elevated circulating neutrophil counts decrease rapidly, over the same time course. Early enhanced neutrophil migratory activity coupled with elevated pulmonary concentrations of interleukin-8 may be central to the establishment of the neutrophil infiltration that is characteristic of ARDS."
   },
   {
@@ -2291,8 +2291,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "Amoxapine is an atypical antipsychotic. It has a high 5-HT2 occupancy and a higher incidence of extrapyramidal side effects when D2 occupancy exceeds 80%. The results of the PET study confirm that amoxapine has a high 5-HT2 occupancy and a",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: '.'",
     "label": "PET data show that amoxapine's profile is very similar to that of the established atypical antipsychotics. These data, together with amoxapine's in vitro pharmacologic profile, effectiveness in animal models, and efficacy in psychotic depression raise the possibility of amoxapine as an \"atypical\" antipsychotic agent in the treatment of schizophrenia."
   },
   {
@@ -2342,8 +2342,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The study suggests that mailing out a summary of current evidence to surgeons does not lead to a change in practice. The results indicate that the practice of prophylactic nasogastric decompression in elective colonic resection is not significantly influenced by the mailing of a summary of current evidence.\n\nQ: Does the use of",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "This study has shown that mailing out a summary of current evidence to surgeons concerning a certain issue is not sufficient to lead to a change in practice."
   },
   {
@@ -2389,7 +2389,7 @@
       ]
     },
     "prediction": "no",
-    "raw_answer": "The results of this study suggest that pulmonary valve replacement in adults late after repair of tetralogy of fallot is not necessarily too late. The right ventricular function remains largely intact after PVR, and the majority of patients maintain a good or normal right ventricular function following the procedure.\nThe answer should be in the",
+    "raw_answer": "no, or maybe. Answer: '.",
     "label": "Right ventricular recovery following PVR for chronic significant pulmonary regurgitation after repair of TOF may be compromised in the adult population. In order to maintain adequate RV contractility, pulmonary valve implant in these patients should be considered before RV function deteriorates."
   },
   {
@@ -2432,8 +2432,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that adjustment for reporting heterogeneity is necessary in the analysis of self-reported sleep and energy problems. The CHOPIT model provides a more accurate estimation of the association between sleep and energy problems and their determinants after adjustment for reporting heterogeneity.\n\nQ: Does the use of a single dose of intravenous immun",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes.",
     "label": "Sleep disorders are common in the general adult population of Japan. Correction for reporting heterogeneity using anchoring vignettes is not a necessary tool for proper management of sleep and energy related problems among Japanese adults. Older age, gender differences in communicating sleep-related problems, the presence of multiple morbidities, and regular exercise should be the focus of policies and clinical practice to improve sleep and energy management in Japan."
   },
   {
@@ -2476,8 +2476,8 @@
         "o"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The evidence suggests that appendiceal perforation is a risk factor for tubal infertility and ectopic pregnancy. The risk of ectopic pregnancy after appendectomy is 1.6 times higher than that of the general population, and the risk of tubal infertility is 4.8 times higher. These findings indicate that",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "The methodologic weaknesses of the studies do not permit acceptance of increased risk of tubal pregnancy or infertility as a consequence of perforation of the appendix, so a causal relationship cannot be supported by the data currently available. Only a well-designed case-control study with unbiased ascertainment of exposure and adjustment for confounding variables will provide a definitive answer."
   },
   {
@@ -2530,8 +2530,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Remote ischemic postconditioning (RIPC) may reduce the risk of myocardial damage associated with percutaneous coronary revascularization (PCI) in patients with stable angina or non-ST elevation acute coronary syndrome (NSTE-ACS) and with troponin<1 ng/ml at the time of randomization",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "This clinical trial evaluated the possible reduction in intervention-related myocardial damage that was attributable to remote postischemic conditioning."
   },
   {
@@ -2575,8 +2575,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Vitamin D deficiency is not a feature of pediatric celiac disease. The study found no significant difference in 25(OH)D levels between children with celiac disease and those without, and the presence of obesity was not associated with vitamin D deficiency in these patients.\n\nQ: Does the use of a single dose of",
+    "prediction": "wrong",
+    "raw_answer": "ne word: yes, no, or maybe. Answer: '.",
     "label": "Our data showed no difference in 25(OH) D levels between normal children and those with CD when adjusted for body mass index."
   },
   {
@@ -2621,8 +2621,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Well differentiated hepatocellular carcinoma (HCC) is not clinically early cancer. The histological features of w-d HCCs, such as the absence of fibrous capsule formation, do not correlate with a better prognosis. The disease free survival between the two groups was not significantly different, and the presence of minute cancer",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: 'The answer is' yes'. '.",
     "label": "W-d HCCs were clinically demonstrated not to be early cancer, because there was no significant difference in disease free survival between the patients with w-d and l-d HCCs."
   },
   {
@@ -2671,8 +2671,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The SCL 90-R obsessive-compulsive dimension is not a valid measure of cognitive impairments in individuals with brain tumors. The study shows that the SCL 90-R obsessive-compulsive dimension is more closely related to symptoms of depression and anxiety than to cognitive impairments.\n\nQ: Does the SCL",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: '.",
     "label": "Our data suggest that the SCL 90-R is best viewed as an indicator of unidimensional emotional distress and somatic effects of structural brain injury."
   },
   {
@@ -2713,8 +2713,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Double-balloon enteroscopy is an accurate method to diagnose small-bowel disorders. It is a safe and effective technique for the evaluation of the small bowel in patients with chronic gastrointestinal bleeding, diarrhea, polyposis, weight-loss, and other indications. The diagnostic yield is 75% and the therapeutic yield is",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: 'CONCLUSIONS: DBE is a safe and effective method to diagnose small-bowel disorders.",
     "label": "1. DBE is a safe and and accurate method to diagnose small bowel disorders; 2. this method permits chromoscopy, biopsies and treatment of the lesions."
   },
   {
@@ -2759,8 +2759,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that the use of a smartphone with an IDA and teleconsultation is associated with improved glycaemic control in patients with type 1 diabetes. However, the benefit of teleconsultation is more pronounced in high users, and the use of the IDA function alone is not sufficient to improve glyca",
+    "prediction": "wrong",
+    "raw_answer": "only one word: yes, no, or maybe. Answer: '.",
     "label": "The Diabeo system improved glycaemic control in both high and low users who avidly used the IDA function, while the greatest improvement was seen in the low users who had the motivational support of teleconsultations."
   },
   {
@@ -2802,8 +2802,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The influence of atmospheric pressure on aortic aneurysm rupture is not statistically significant. However, a trend towards higher rupture rates in large aneurysms with increasing atmospheric pressure was observed, particularly in patients with hypertension. This suggests that while atmospheric pressure may not be a direct cause, it could play a role in",
+    "prediction": "wrong",
+    "raw_answer": ". Answer: '.",
     "label": "The results of this study do not support the hypothesis that there is a direct link between atmospheric pressure values and abdominal aortic aneurysm ruptures."
   },
   {
@@ -2855,8 +2855,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "Cytokines are involved in the pathogenesis of epilepsy. The levels of several cytokines in the serum of patients with epilepsy are significantly different from those in healthy controls. The levels of IL-6, TNF-alpha, and IL-1beta are significantly increased in patients with epilepsy. The levels of IL-",
+    "prediction": "wrong",
+    "raw_answer": ": yes, no, or maybe. Answer: ['We analyzed cytokines levels in patients with epilepsy and new onset seizure and correlated it with various parameters', '' After obtaining consent, CSF analysis was carried",
     "label": "We found increased post-ictal serum cytokine levels in patients with several epilepsy syndromes."
   },
   {
@@ -2902,8 +2902,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results of this study suggest that continuing oral hypoglycemic agents in addition to insulin is more effective than insulin alone in the management of type 2 diabetes in primary care. The addition of insulin to oral hypoglycemic agents is associated with a greater improvement in HbA1c, less weight",
+    "prediction": "wrong",
+    "raw_answer": "e word: yes, no, or maybe. Answer: 'CONCLUSIONS: Insulin in addition to sulfonylurea and metformin in patients with type 2 diabetes in primary care is associated with less weight gain, less hypoglycemia, and improved general",
     "label": "Bedtime NPH insulin added to maximal therapy with sulfonylurea and metformin is an effective, simple, well-tolerated approach for patients with uncontrolled type 2 diabetes."
   },
   {
@@ -2947,8 +2947,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The authors conclude that wandering and physically nonaggressive agitation are not equivalent. Wandering is a distinct behavior that is not fully captured by the PNA behaviors. The results suggest that the PNA behavior mapping instrument is not sufficient to capture the full range of behaviors associated with psychomotor agitation.\n\nQ: What is the",
+    "prediction": "wrong",
+    "raw_answer": "aybe. Answer: '.",
     "label": "Findings depict wandering and PNA as overlapping, but nonequivalent phenomena. Evidence supporting construct validity of wandering was more robust than that for PNA. Results have implications for accuracy in scientific and clinical detection and labeling of wandering and agitation."
   },
   {
@@ -2991,8 +2991,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The new method of pollen identification using real-time PCR is accurate and reliable, and can be used for aerobiological monitoring. It is a rapid, automated, and accurate method for the detection and quantification of airborne allergenic pollen taxa. This method is suitable for use in aerobiological monitoring systems and can be used",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "The real-time PCR approach revealed promising results in pollen identification and quantification, even when analyzing pollen mixes. Future perspectives could concern the development of multiplex real-time PCR for the simultaneous detection of different taxa in the same reaction tube and the application of high-throughput molecular methods."
   },
   {
@@ -3045,8 +3045,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that the site of access for endovenous laser ablation of small saphenous varicose veins does not influence early outcomes. The study found no significant differences between the two groups in terms of complications, recurrence, or patient satisfaction. Therefore, the site of access does not appear",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "The site of access in our study does not appear to influence complications specifically neural injury or recurrence rates."
   },
   {
@@ -3084,8 +3084,8 @@
         "e"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The zero CLABSI rate in our NICU is sustainable for at least 1 year, and the key determinants of this sustainability are ongoing training, surveillance, and vigilance with catheter insertion and maintenance practices and improved documentation.\nThe answer should be in the same format as the previous answers.\nA: The zero",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "High-quality training, strict compliance with evidence-based guidelines, and thorough documentation is associated with significant reductions in CLABSIs. Mindful organizing may lead to a better understanding of what goes into a unit's ability to handle peak demands and sustain extraordinary performance in the long-term."
   },
   {
@@ -3128,8 +3128,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The LAA occlusion device does not alter the echocardiography and ECG parameters in patients with atrial fibrillation. The only change observed was a slight and measureable movement of the QRS electric axis, which is not considered significant. The increase in left atrial diameter and aortic root diameter during follow",
+    "prediction": "wrong",
+    "raw_answer": "Answer: 'CONCLUSIONS: LAA occlusion device may cause some changes in echocardiography and ECG parameters in patients with AF.",
     "label": "LAA occlusion device resulted in a slightly movement in QRS axis, reduced HR and increased the mean-mean QT interval duration. In addition, LA diameter and ARD seemed to be larger after device implantation."
   },
   {
@@ -3174,8 +3174,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results of this study suggest that male sex is an independent risk factor for conversion to open cholecystectomy and biliary injuries. Therefore, the surgeon should be aware of this risk factor and take appropriate measures to reduce the risk of conversion and biliary injury during laparoscopic cholecystectomy.\n\nQ: Does",
+    "prediction": "wrong",
+    "raw_answer": "nswer only one word: yes, no, or maybe. Answer: '.",
     "label": "Laparoscopic cholecystectomy is often challenging in men on account of more adhesions and inflammation. This leads to higher conversion rates and more postoperative complications. Optimized planning and a more experienced operating surgeon may help overcome these problems."
   },
   {
@@ -3215,8 +3215,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results of this study suggest that EMS providers can provide appropriate tidal volumes with a pediatric-sized bag-valve-mask in a simulated adult-sized patient. The pediatric-sized BVM was effective in delivering adequate tidal volumes, and the use of a pediatric-sized BVM in the prehospital setting is recommended.\n\nQ: Does the use",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "The study suggests that ventilating an adult patient is possible with a smaller, pediatric-sized BVM. The tidal volumes recorded with the pediatric BVM were more consistent with lung-protective ventilation volumes."
   },
   {
@@ -3257,8 +3257,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that leukocyte and CRP measurements are not useful in the diagnosis of acute appendicitis in the elderly. The presence of both elevated leukocyte count and CRP is not a feature of acute appendicitis in the elderly. The findings indicate that the presence of an uninflamed appendix",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '",
     "label": "Although elevated leukocyte count and CRP value cannot effectively establish the diagnosis of acute appendicitis in the elderly, unelevated values exclude it. Accordingly, appendectomy is not recommended to be performed in an elderly patient with unelevated leukocyte count and CRP value, although clinical symptoms and signs indicate acute appendicitis."
   },
   {
@@ -3307,8 +3307,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The expression of VEGF and TGF-β1 is significantly increased in endometrial polyps compared to adjacent endometrial tissue. The increased expression of VEGF is associated with the increased expression of TGF-β1. The increased expression of VEGF is associated with the increased expression of steroid",
+    "prediction": "wrong",
+    "raw_answer": "s, no, or maybe. Answer: '.",
     "label": "There was increased expression of TGF-β1 and VEGF in polyps compared to adjacent normal endometrial tissue. It suggested that these cytokines might play a role in endometrial polyp formation. In addition, there was a significant correlation between steroid receptor expression and VEGF and TGF-β1 expression."
   },
   {
@@ -3344,8 +3344,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Bicompartmental knee arthroplasty does not appear to be more favorable to knee muscle strength and physical performance compared to total knee arthroplasty. The results suggest that both procedures are equally effective in terms of muscle strength and physical performance, with no significant differences in the outcomes measured.\n\nQ: Does the",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "Although theoretically plausible, bicompartmental knee arthroplasty was not superior in knee muscle strength and physical performance at 1 year compared with total knee arthroplasty."
   },
   {
@@ -3389,8 +3389,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that eligibility for an adjuvant chemotherapy protocol is not a good prognostic factor for invasive bladder cancer after radical cystectomy. The only significant difference between the protocol group and the matched group was in the time to recurrence, which was not statistically significant. The protocol group had a better overall",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "These data suggest that being willing and fit enough for a chemotherapy protocol is a good prognostic factor for invasive bladder cancer. This eligibility bias emphasizes the need for prospective, randomized trials, and indicates that single-group studies using historical or matched controls have to be interpreted with caution."
   },
   {
@@ -3443,8 +3443,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Therapeutic anticoagulation in trauma patients is associated with a risk of complications, but the risk is not high. The risk of complications is higher in patients with chronic obstructive pulmonary disease, those receiving unfractionated heparin, and those with low initial platelet counts. The risk of complications is lower in",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: '.",
     "label": "Trauma patients have a significant complication rate related to anticoagulation therapy, and predicting which patients will develop a complication remains unclear. Prospective studies are needed to determine which treatment regimen, if any, is appropriate to safely anticoagulate this high risk population."
   },
   {
@@ -3480,8 +3480,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The white blood cell count is positively correlated with the injury severity score (ISS) and negatively correlated with the Glasgow coma score (GCS) and revised trauma score (RTS). This suggests that the WBC count may be a useful indicator of the severity of injury in blunt trauma patients.\n\nQ: Does the use of",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes.",
     "label": "The leukocyte count at presentation can be used as an adjunct in the evaluation of the severity of injury in blunt trauma patients."
   },
   {
@@ -3524,8 +3524,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The presence of viral co-infection in children with acute respiratory infection is not associated with increased severity of the disease. However, bacterial superinfection is associated with increased severity, and pneumococcal vaccination is associated with reduced severity.\nThe answer should be in the same format as the previous answers.\nA: The presence",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "The presence of more than one virus in hospitalized children with ARI is very frequent but it does not seem to have a major clinical impact in terms of severity. However bacterial superinfection increases the severity of the disease course. On the contrary, pneumococcal vaccination plays a protective role."
   },
   {
@@ -3566,8 +3566,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The preoperative platelet count in esophageal squamous cell carcinoma is a significant independent prognostic factor. The optimal cutoff point for platelet count was 205 × 10(9)/L. Patients with platelet count ≤ 205 × 10(9)/L had",
+    "prediction": "wrong",
+    "raw_answer": "or maybe. Answer: '.",
     "label": "Preoperative platelet count is a predictive factor for long-term survival in ESCC, especially in nodal-positive patients. We conclude that 205 (×10(9)/L) may be the optimum cutoff point for platelet count in predicting survival in ESCC patients."
   },
   {
@@ -3606,8 +3606,8 @@
         "o"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The results suggest that the inclusion of genetic SNP scores in risk prediction models for BRCA1/2 carriers improves the predictive ability of the models. The combination of genetic and clinical variables significantly improves the risk prediction of BRCA1/2 carriers compared to clinical variables alone. This suggests that the use of genetic information in risk",
+    "prediction": "no",
+    "raw_answer": "no, or maybe. Answer: yes.",
     "label": "Random survival forests did not yield higher performance compared to Cox proportional hazards. We found improvement in prediction performance when coupling the genetic SNP score with clinical/demographic markers, which warrants further investigation."
   },
   {
@@ -3658,8 +3658,8 @@
         "e"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "The findings suggest that lay people and health professionals are more likely to accept breaching confidentiality to protect a patient's wife from a sexually transmitted disease (STD) if the disease is severe and the time taken to discuss it with the patient is little. The decision to consult an expert in STDs and the intention to protect the",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: yes, maybe.",
     "label": "Most people in France are influenced by situational factors when deciding if a physician should breach confidentiality to protect the spouse of a patient infected with STD."
   },
   {
@@ -3711,8 +3711,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The molecular genotype of patients with radioiodine-refractory thyroid cancer is a useful guide in the management of these patients. The presence of BRAF mutations is associated with a better prognosis and response to tyrosine kinase inhibitors. The histologic subtype of the tumor is also an important factor in determining the prognosis of these",
+    "prediction": "maybe",
+    "raw_answer": "maybe. Answer: '.",
     "label": "Patients with BRAF-mutant PTC had a significantly longer PFS than BRAF wild-type when treated with TKIs. However, due to the small number of BRAF-mutant patients, further investigations are required, especially to understand the potential positive effect of BRAF mutations in RAIR TC patients while having a negative prognostic impact in RAI-sensitive PTC patients."
   },
   {
@@ -3750,8 +3750,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The TEAM sample is not representative of the general population of child bipolar I disorder. The RCT sample is more likely to have more severe symptoms and more frequent comorbidities than the Phenomenology sample, and the RCT sample is more likely to have more frequent ultradian rapid cycling and psychosis.\nThe final answer",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: yes.",
     "label": "Generalization of the RCT sample was supported, because only 7.8% of Phenomenology subjects did not fit the RCT criteria. Nevertheless, because the RCT subjects were more severely ill, it is unclear if treatment findings from the RCT will be applicable to children with less severe mania."
   },
   {
@@ -3802,8 +3802,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that minimally invasive mitral valve repair with artificial chords is reproducible and applicable in routine surgery. The use of neochords in minimally invasive mitral valve repair is safe and effective, with a low rate of complications and no need for reoperation.\n\nQ: Does the use of",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Minimally invasive mitral valve repair using neochords provided a high rate of repair, reproducible results in a routine cardiac surgery setting and stable repair during follow-up. This has become our preferred technique for mitral valve surgery."
   },
   {
@@ -3859,8 +3859,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The use of desflurane to control intraoperative hypertension during aortic surgery does not appear to alter left ventricular function. The left ventricular systolic and diastolic function remains unchanged, and the left ventricular mass and wall thickness are not affected by desflurane.\n\nQ: Does the use of",
+    "prediction": "wrong",
+    "raw_answer": "es, no, or maybe. Answer: ['CONCLUSIONS: Desflurane, when used to control intraoperative hypertension, does not alter LV function when used to control surgical stimulation during aortic surgery.",
     "label": "This study demonstrates that in patients at risk for cardiac morbidity undergoing vascular surgery, desflurane is effective to control intraoperative hypertension without fear of major cardiac depressant effect."
   },
   {
@@ -3910,8 +3910,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that ESC may not be as effective as previously thought, as a significant number of drivers have not been aware of its presence in their vehicles and have not been aware of its benefits. This may lead to a reduction in the effectiveness of ESC in reducing collisions and saving lives.\n\nQ: Does the use of a",
+    "prediction": "wrong",
+    "raw_answer": "ybe. Answer: '.",
     "label": "Collectively, results suggest that behavioral adaptation to ESC is likely in certain drivers; however, its proven effectiveness in reducing the likelihood of being involved in a serious crash probably outweighs any potential increases in unsafe driving. To fully benefit from ESC, vehicle manufacturers are encouraged to market ESC-equipped vehicles in a realistic, safe manner. Driver training and safety organizations are also encouraged to provide balanced educational information about ESC to their members."
   },
   {
@@ -3965,8 +3965,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The clinical effects of intra-abdominal desmoids are similar in patients with restorative proctocolectomy and ileorectal anastomosis. The risk of complications is similar, and the need for stoma is not different between the two groups.\nThe answer should be in the same format as the previous",
+    "prediction": "wrong",
+    "raw_answer": "Answer: ['Nobody has analyzed the sequelae of desmoids according to the type of surgery that precipitated them', '' This study aims to determine whether the",
     "label": "The morbidity associated with desmoid tumors has not been shown to differ, whether they arise after restorative proctocolectomy or ileorectal anastomosis."
   },
   {
@@ -4009,8 +4009,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The sternal skin conductance device is not a reasonable surrogate for hot flash measurement. The device is not reliable and is not acceptable to women. The results of the pilot studies suggest that the device is not suitable for use in a clinical setting.\n\nQ: Does the use of a single dose of intravenous immunoglobulin",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes.",
     "label": "Findings from these studies support discordance between device-recorded and self-reported hot flashes. In addition, the studies reveal further limitations of SSC monitoring, including difficulties with data collection and lack of consistency in interpretation. Based on these results and other recent trials identifying issues with SSC methodology, it is time to find a better physiologic surrogate measure for hot flashes."
   },
   {
@@ -4056,8 +4056,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Memory-provoked rCBF-SPECT is a promising new diagnostic tool for Alzheimer's disease. It is more sensitive than resting rCBF-SPECT in detecting brain hypoperfusion in the left parietal cortex, which is a hallmark of AD. This study suggests that MP-SPECT is a useful and reliable",
+    "prediction": "wrong",
+    "raw_answer": "r maybe. Answer: yes.",
     "label": "Memory provocation increased the sensitivity of rCBF-SPECT for the detection of AD-related blood flow changes in the brain at the group level. Further studies are needed to evaluate MP-SPECT as a diagnostic tool at the individual level. If a higher sensitivity for AD at the individual level is verified in future studies, a single MP-SPECT study might be sufficient in the clinical setting."
   },
   {
@@ -4097,8 +4097,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Obesity is not a triggering cause of idiopathic misty mesentery. The prevalence of idiopathic misty mesentery is 7% in the general population, and the majority of patients are obese. However, the majority of patients with idiopathic misty mesentery are not obese, and the association between",
+    "prediction": "wrong",
+    "raw_answer": ". Answer: '.",
     "label": "The results of the present study show that idiopathic incidental misty mesentery appearance has a significant prevalence. Also, the high body mass index of these patients and the growing evidence of obesity-induced inflammatory changes in adipose tissue are suggestive of an association between obesity and misty mesentery appearance on CT."
   },
   {
@@ -4139,8 +4139,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results of this study suggest that ACE-1 gene polymorphism is associated with the development of chronic kidney disease in hypertensive patients. The D allele of the ACE gene is a risk factor for CKD in hypertensive patients. The study also shows that the risk of CKD is associated with the DD genotype of the",
+    "prediction": "yes",
+    "raw_answer": "yes, no, or maybe. Answer: '.",
     "label": "It is concluded that ACE-DD genotype may be a risk factor for the causation and development of chronic kidney failure among hypertensive patients."
   },
   {
@@ -4179,8 +4179,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Fear of anaphylactic shock is the main reason for not adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cysts. This suggests that the use of anaphylaxis prophylaxis and the use of anaphylaxis management protocols should be considered in the management of patients",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "The seemingly exaggerated traditional fear of anaphylaxis seems to discourage surgeons from more widely adopting minimal access techniques for the treatment of hydatid cyst."
   },
   {
@@ -4219,8 +4219,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "Edaravone significantly reduces oxidative stress and inflammation in the ovarian tissue of rats subjected to ischemia/reperfusion injury. The results suggest that edaravone may be a potential therapeutic agent for the treatment of ovarian damage caused by ischemia/reperfusion injury in humans.\n\nQ: Does the use of a single",
+    "prediction": "no",
+    "raw_answer": "no, or maybe. Answer: '",
     "label": "These results indicate that prophylactic treatment with edaravone prevents I/R-induced ovarian damage during pneumoperitoneum in an experimental rat model."
   },
   {
@@ -4269,8 +4269,8 @@
         "s"
       ]
     },
-    "prediction": "maybe",
-    "raw_answer": "Paget's disease of bone is present in India. The study shows that the disease is more common in males and occurs predominantly in the skull and spine. The disease is associated with increased serum alkaline phosphatase levels and is responsive to bisphosphonate therapy.\n\nQ: Does the use of a single dose",
+    "prediction": "wrong",
+    "raw_answer": "es, no, or maybe. Answer: '",
     "label": "This illustrates that Paget's disease does exist in India and a high index of suspicion is required to clinch the diagnosis."
   },
   {
@@ -4310,8 +4310,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The study shows that disease activity and damage are significantly associated with reduced physical and role function in SLE patients. However, age and disease duration were not significantly associated with health status in this study.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) in patients with multiple sclerosis (",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '[' CONCLUSIONS: The results of this study show that the health status of SLE patients is associated with disease activity and damage.",
     "label": "The present study, which is based on internationally accepted assessment tools for SLE patients, shows a significant relationship between increased disease activity and reduced physical function. This result emphasizes the importance of optimizing treatment aiming at reducing disease activity."
   },
   {
@@ -4355,8 +4355,8 @@
         "s"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The results suggest that aerobic workload is positively related to ambulatory blood pressure. The positive correlation between aerobic workload and ABP is likely to be due to the increased cardiac output and vascular resistance associated with increased aerobic activity.\n\nQ: Does the use of a single dose of intravenous immunoglobulin (IVIG) in patients",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "Because workers may have an elevated relative aerobic workload for several hours each working day, this relationship may elucidate a mechanism behind the increased risk for cardiovascular disease among workers exposed to high levels of occupational physical activity."
   },
   {
@@ -4406,8 +4406,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The decision to anticoagulate a patient with a history of ICH and nonvalvular atrial fibrillation should be made on the basis of the risk-benefit analysis of anticoagulation. The risk of ICH is increased by anticoagulation, but the risk of stroke is also increased.",
+    "prediction": "wrong",
+    "raw_answer": "Answer: '.",
     "label": "Survivors of lobar ICH with atrial fibrillation should not be offered long-term anticoagulation. Similarly, most patients with deep hemispheric ICH and atrial fibrillation should not receive anticoagulant therapy. However, patients with deep hemispheric ICH at particularly high risk for thromboembolic stroke or low risk of ICH recurrence might benefit from long-term anticoagulation."
   },
   {
@@ -4451,8 +4451,8 @@
         "o"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "The extent of lymphadenectomy in cervical cancer is not significantly affected by neoadjuvant chemotherapy. However, the number of lymph nodes involved and the presence of certain pathological features are independent prognostic factors for disease-free survival and overall survival in patients with node-positive disease treated with neoadjuvant chemotherapy and radical surgery",
+    "prediction": "wrong",
+    "raw_answer": "e. Answer: '.",
     "label": "The frequency and topographic distribution of LNM are not modified by NACT, and clinical non-responders showed more involved LNs. A systemic and extensive lymphadenectomy should be performed in patients treated with NACT plus surgery regardless of the response to NACT."
   },
   {
@@ -4501,7 +4501,7 @@
       ]
     },
     "prediction": "no",
-    "raw_answer": "The APACHE II score is not a reliable marker of physiological impairment in emergency surgical patients. The APACHE II score is not independent of the effects of treatment and is not a reliable predictor of mortality. The APACHE II score is not a reliable marker of physiological impairment in emergency surgical patients.\n\nQ: Does the use of",
+    "raw_answer": "no, or maybe. Answer: 'CONCLUSIONS: The APACHE II score is a reliable marker of physiological impairment in emergency surgical patients.",
     "label": "For risk stratification in emergency surgical patients, it is essential to measure the APACHE II score before surgical treatment. Longitudinal APACHE II scoring reveals continuous improvement of the score in surviving patients but has no therapeutic relevance in the individual patient."
   },
   {
@@ -4544,8 +4544,8 @@
         "e"
       ]
     },
-    "prediction": "no",
-    "raw_answer": "Somatic complaints are not a strong predictor of subsequent symptoms of depression. However, in women, somatic complaints are associated with a higher risk of developing depressive symptoms 5 years later, even after controlling for age, income, and baseline CES-D scores.\n\nQ: Does the use of a single dose of intravenous immun",
+    "prediction": "wrong",
+    "raw_answer": "Answer: yes.",
     "label": "Our findings suggest that somatic complaints may represent one, but not necessarily the most important, risk factor for the subsequent development of depressive symptoms in women in nonclinical populations. The results also highlight the importance of including social variables in studies on women's depression as well as conducting additional research to further examine predictors of depressive symptoms in men."
   }
 ]
