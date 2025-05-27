@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?",
+    "answer": "no\n\nExamples:Question: What is the difference between the two types of barium enema?\nAnswer: Answer only one word from the above options: yes, no, or maybe\nAnswer: maybe\n\nExamples:Question: Are there any known cases of a person being able to survive a heart attack while on ant",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?",
+    "answer": "no\n\nExamples:Question: What is the role of the thymus in the immune system?\nAnswer: Answer only one word from the above options: lymphoid, muscular, connective, nervous\nAnswer: lymphoid\n\nExamples:Question: What is the function of the spleen?\nAnswer: Answer only one",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+    "answer": "no\nExamples:Question: Does the use of a transdermal patch increase the risk of breast cancer?\nAnswer: no\nAnswer based on the above examplesQuestion: Does the use of a transdermal patch increase the risk of breast cancer?\nAnswer: no\nAnswer only one word from the following options: yes",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?",
+    "answer": "no\n\nExamples:Question: What is the usual duration of a typical acute otitis media episode?\nAnswer: 10 days\nAnswer based on the above examplesQuestion: What is the usual duration of a typical acute otitis media episode?\nAnswer: 10 days\nAnswer based on the above examplesQuestion:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?",
+    "answer": "no\nExamples:Question: Is the use of a single dose of a first-generation antihistamine sufficient to treat a patient with a severe allergic reaction?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a single dose of a first-generation antihistamine sufficient to treat a patient",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?",
+    "answer": "no\nExamples:Question: Is the United States a democracy?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the United States a democracy?\nAnswer: no\nAnswer: no\nExamples:Question: Is the United States a democracy?\nAnswer: no\nAnswer: no\nExamples:Question: Is",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+    "answer": "no\n\nExamples:Question: Is the use of anticoagulants in patients with atrial fibrillation associated with an increased risk of bleeding?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of anticoagulants in patients with atrial fibrillation associated with an increased risk of",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+    "answer": "maybe\nAnswer based on the above examplesQuestion: Are there any studies that show that the use of anticoagulants in patients with acute myocardial infarction (AMI) is associated with a decreased risk of stroke?\nAnswer: Answer only one word from the following options: yes, no, or maybe",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Treadmill training post stroke: are there any secondary benefits?",
+    "answer": "yes\n\nExamples:Question: Are there any benefits of using a treadmill for post stroke rehabilitation?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any benefits of using a treadmill for post stroke rehabilitation?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nDo not",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Convulsions and retinal haemorrhage: should we look further?",
+    "answer": "no\n\nExamples:Question: What is the most common cause of death in patients with acute lymphoblastic leukemia (ALL) in the United States?\nAnswer: Answer only one word from the following options: leukemia, infection, cancer, heart, respiratory, immune, neurologic, blood, bone, lymph, lung,",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+    "answer": "no\nExample: Question: What is the name of the largest planet in our solar system? Answer: Jupiter\nAnswer: no\nAnswer based on the above examplesQuestion: What is the name of the largest planet in our solar system?\nAnswer: Jupiter\nAnswer: no\nAnswer based on the above examplesQuestion:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+    "answer": "no\n\nExamples:Question: Is the use of a non-steroidal anti-inflammatory drug (NSAID) associated with a higher risk of acute myocardial infarction (AMI) in patients with type 2 diabetes mellitus?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+    "answer": "no\nExample:Question: Is the use of anticoagulants during pregnancy associated with an increased risk of miscarriage?\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: maybe\nAnswer: no\n\nThe examples provided show that the assistant should answer with only one of the options: yes,",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does base deficit predict mortality in patients with severe traumatic brain injury?",
+    "answer": "no\nExamples:Question: What is the normal range for the pH of the gastric mucosa?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\nExamples:Question: Is the use of antacids in the treatment of peptic ulcers associated with a",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+    "answer": "no\nExample:Question: Is the following statement true? \"The United States Supreme Court case, Brown v. Board of Education, was a landmark case in the history of the United States.\"\nAnswer: yes\nAnswer: yes\nExample:Question: Is the following statement true? \"The United States Supreme Court case",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Should general practitioners call patients by their first names?",
+    "answer": "no\nExample:Question: Is the United States a monarchy?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the United States a democracy?\nAnswer: yes\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the United States a democracy?\nAnswer: yes\nAnswer: yes\nAnswer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?",
+    "answer": "no\n\nExamples:Question: Is there a correlation between the number of times a person has been to the movies and the number of times they have been to the doctor?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\n\nExamples:Question: Is there a correlation",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?",
+    "answer": "no\nExamples:Question: What is the function of the placenta?\nAnswer: The placenta is an organ that provides oxygen and nutrients to the fetus and eliminates waste products from the fetus.\nAnswer: The placenta is an organ that provides oxygen and nutrients to the fetus and eliminates waste products from the fetus.\nAnswer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?",
+    "answer": "no\nExamples:Question: Is the use of a nasal packing after septoplasty necessary?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a nasal packing after septoplasty necessary?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a nasal packing after",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?",
+    "answer": "no\n\nExamples:Question: Are there any cases of the SARS-CoV-2 virus being transmitted through the placenta?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any cases of the SARS-CoV-2 virus being transmitted through the placenta?\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?",
+    "answer": "no\n\nExamples:Question: Is a blood pressure reading of 140/90 mmHg considered normal?\nAnswer: no\nAnswer based on the above examplesQuestion: Is a blood pressure reading of 140/90 mmHg considered normal in a child?\nAnswer: no\nAnswer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?",
+    "answer": "no\nExample: Question: Is the 2012 FIFA World Cup in 2014 a real event? Answer: no\nAnswer: no\n\nAnswer: no\nExample: Question: Is the 2012 FIFA World Cup in 2014 a real event? Answer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?",
+    "answer": "no\nExamples:Question: Is the use of anticoagulants in patients with a history of stroke or transient ischemic attack (TIA) associated with an increased risk of stroke?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of anticoagulants in patients with a",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+    "answer": "no\nExamples:Question: Is it possible to use a combination of different types of therapies for the treatment of multiple sclerosis?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is it possible to use a combination of different types of therapies for the treatment of multiple sclerosis?\nAnswer: Answer only one word from the",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?",
+    "answer": "no\nThe examples are given as:\n\nExample 1:\nQuestion: What is the most common cause of death in patients with acute myocardial infarction?\nAnswer: myocardial infarction\nExample 2:\nQuestion: What is the most common cause of death in patients with acute myocardial infarction?",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?",
+    "answer": "yes\n\nExamples:Question: Is the risk of death from a single overdose of a sedative-hypnotic drug higher than the risk of death from a single overdose of a central nervous system depressant?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the risk of death from a single overdose of",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Syncope during bathing in infants, a pediatric form of water-induced urticaria?",
+    "answer": "no\nThe user is asking if syncope during bathing in infants is a pediatric form of water-induced urticaria. The answer is \"no\" based on the previous example where the question was about double reading of barium enemas and the answer was \"no\". The user is likely looking for a simple yes/no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?",
+    "answer": "no\nExamples:Question: Is the use of a non-steroidal anti-inflammatory drug (NSAID) for the treatment of chronic low back pain a valid approach?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a non-steroidal anti-inflammatory drug (NSAID)",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+    "answer": "no\n\nExamples:Question: Is the following statement true? \"The United States has a democratic government.\"\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the following statement true? \"The United States has a democratic government.\"\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the following statement",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?",
+    "answer": "no\n\nExamples:Question: When is the best time to perform a barium enema?\nAnswer: Answer only one word from the following options: morning, afternoon, evening, night\nAnswer: night\n\nExamples:Question: What is the normal range of the pH of the stomach?\nAnswer: Answer only one word",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is routine chest radiography after transbronchial biopsy necessary?",
+    "answer": "no\n\nExamples:Question: What is the mechanism of action of isavuconazole?\nAnswer: Answer only one word from the following options: absorption, action, administration, metabolism, toxicity, pharmacokinetics, pharmacodynamics\nAnswer: pharmacodynamics\n\nExamples:Question: What is the mechanism of action of is",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Do foreign bodies migrate through the body towards the heart?",
+    "answer": "no\nAnswer based on the following examplesQuestion: Is it possible for a person to die of a heart attack?\nAnswer: no\nAnswer based on the above examplesQuestion: Is it possible for a person to die of a stroke?\nAnswer: no\nAnswer based on the above examplesQuestion: Is it possible for a",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10 kg weight?",
+    "answer": "no\nExample: Question: Can a person who is not a professional driver be a passenger in a vehicle with a driver who has a blood alcohol concentration (BAC) of 0.08 or higher?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the correct way to apply a t",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?",
+    "answer": "no\nExample:Question: Is a person who has a broken leg considered to have a fracture?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is a person who has a broken leg considered to have a fracture?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is a person who has a",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does feeding tube insertion and its timing improve survival?",
+    "answer": "no\n\nExamples:Question: What is the name of the enzyme that catalyzes the formation of ATP?\nAnswer: Answer only one word from the following options: ATP synthase, glycogen phosphorylase, ribozyme, hexokinase\nAnswer: ATP synthase\n\nExamples:Question: What is the",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does health information exchange reduce redundant imaging?",
+    "answer": "no\nExamples:Question: What is the role of the liver in the human body?\nAnswer: Answer only one word from the following options: digestion, elimination, reproduction, secretion, homeostasis\nAnswer: secretion\nAnswer based on the above examplesQuestion: What is the role of the liver in the human body",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?",
+    "answer": "no\nExample:Question: Are there any known cases of a human being being cured by a placebo?\nAnswer: no\nAnswer: no\nAnswer: maybe\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?",
+    "answer": "no\n\nExamples:Question: Is the following statement correct? \"The United States is a democracy.\"\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the following statement correct? \"The United States is a democracy.\"\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the following statement correct?",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are women with major depression in pregnancy identifiable in population health data?",
+    "answer": "yes\nExample:Question: Is the United States a country in South America?\nAnswer: no\n\nExamples:Question: Is the United States a country in South America?\nAnswer: no\nAnswer: maybe\n\nExamples:Question: Is the United States a country in South America?\nAnswer: no\nAnswer: maybe",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Are physician estimates of asthma severity less accurate in black than in white patients?",
+    "answer": "maybe\nExamples:Question: Are there any known cases of a person being born with a brain tumor?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any known cases of a person being born with a brain tumor?\nAnswer: Answer only one word from the following options: yes, no, or",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?",
+    "answer": "no\nExamples:Question: Is the following statement true? \"The most common cause of death in the United States is heart disease.\"\nAnswer: no\nAnswer based on the above examplesQuestion: Is the following statement true? \"The most common cause of death in the United States is heart disease.\"\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?",
+    "answer": "no\n\nExamples:Question: What is the role of the hypothalamus in the regulation of body temperature?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the role of the hypothalamus in the regulation of body temperature in a 10-year-old child with hypothyroidism?\nAnswer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?",
+    "answer": "no\n\nExamples:Question: What is the role of the thymus in the immune system?\nAnswer: the immune system is composed of a complex network of cells and tissues that work together to defend the body against pathogens and other harmful agents. The thymus is a primary lymphoid organ that plays a key role",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Is fluoroscopy essential for retrieval of lower ureteric stones?",
+    "answer": "no\n\nExamples:Question: Is the incidence of acute pancreatitis in the elderly higher than in the general population?\nAnswer: no\nAnswer based on the examplesQuestion: Is the incidence of acute pancreatitis in the elderly lower than in the general population?\nAnswer: yes\nAnswer: yes\n\nExamples:Question: Is",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?",
+    "answer": "no\n\nExamples:Question: Which is the most common type of cancer in the world?\nAnswer: no\nAnswer based on the above examplesQuestion: Which is the most common type of cancer in the world?\nAnswer: no\nAnswer: no\n\nExamples:Question: Is the following statement correct? \"The president of",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is atropine needed with ketamine sedation?",
+    "answer": "no\nExample: Question: Is the sun a star? Answer: yes\nExample: Question: Is the sun a star? Answer: no\nExample: Question: Is the sun a star? Answer: maybe\n\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can the growth rate of a gallbladder polyp predict a neoplastic polyp?",
+    "answer": "no\nExamples:Question: Are there any known cases of a person who has had a heart attack and then had another heart attack within 1 year?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there any known case of a person who has had a heart attack and then had another heart attack within",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?",
+    "answer": "no\nThe user's question is a bit ambiguous, but the answer is no. The answer is based on the information that antral follicle assessment is not a better predictor than age and FSH. The answer is no.\nAnswer: no\nThe user's question is a bit ambiguous, but the answer is",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Should pulp chamber pulpotomy be seen as a permanent treatment?",
+    "answer": "no\n\nExamples:Question: What is the difference between a barium enema and a colonoscopy?\nAnswer: Answer only one word from the following options: diagnostic, therapeutic, prophylactic, palliative, or preventive\nAnswer: diagnostic\n\nExamples:Question: What is the difference between a barium en",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?",
+    "answer": "no\nExamples:Question: Is the following statement true? \"The 1913 United States Constitution was the first Constitution of the United States.\"\nAnswer: yes\nAnswer: yes\nExamples:Question: Is the following statement true? \"The 1913 United States Constitution was the first Constitution of",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is amoxapine an atypical antipsychotic?",
+    "answer": "yes\n\nExamples:Question: Is it possible to use a single pair of pliers to open a bottle cap?\nAnswer: no\nAnswer based on the above examplesQuestion: Can a single pair of pliers be used to open a bottle cap?\nAnswer: no\n\nExamples:Question: What is the function of the",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Can surgeon familiarization with current evidence lead to a change in practice?",
+    "answer": "no\nExamples:Question: Is there a known association between the use of inhaled corticosteroids and the risk of chronic bronchitis?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nDo not provide any explanations.\nAnswer: no\n\nBased on the examples above,",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?",
+    "answer": "no\nExamples:Question: Is the treatment of a patient with acute respiratory distress syndrome with a noninvasive ventilator appropriate?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the treatment of a patient with acute respiratory distress syndrome with a noninvasive ventilator appropriate?\nAnswer: yes\nAnswer based",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
+    "answer": "no\n\nExamples:Question: What is the best way to treat acute otitis media in children?\nAnswer: Answer with the name of the treatment: amoxicillin\nAnswer: amoxicillin\n\nExamples:Question: What is the best way to treat acute otitis media in children?\nAnswer: Answer with the name",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is perforation of the appendix a risk factor for tubal infertility and ectopic pregnancy?",
+    "answer": "no\n\nExamples:Question: Is a diagnosis of chronic bronchitis a risk factor for developing atherosclerosis?\nAnswer: no\nAnswer based on the above examplesQuestion: Is a diagnosis of chronic bronchitis a risk factor for developing atherosclerosis?\nAnswer: no\nAnswer only one word from the following options",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?",
+    "answer": "no\nExamples:Question: Is the use of a urinary catheter in the postoperative period necessary?\nAnswer: no\nAnswer based on the above examplesQuestion: Does the use of a urinary catheter in the postoperative period lead to increased risk of infection?\nAnswer: no\nExamples:Question: Is the use",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is vitamin D deficiency a feature of pediatric celiac disease?",
+    "answer": "no\nExamples:Question: Are there any known cases of a person being born with a cleft lip?\nAnswer: Answer only one word from the above options: yes, no, or maybe\nAnswer: maybe\nExamples:Question: Is a person born with a cleft lip a congenital anomaly?\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?",
+    "answer": "no\n\nExamples:Question: What is the treatment for a patient with a history of multiple sclerosis?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\n\nExamples:Question: What is the treatment for a patient with a history of multiple sclerosis?\nAnswer: Answer only",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?",
+    "answer": "no\nBased on the example, the assistant should answer with \"no\" if the answer is not \"yes\", \"no\", or \"maybe\". But what if the answer is \"no\" or \"yes\"?\nAnswer: no\nBased on the example, the assistant should answer with \"no\" if the answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?",
+    "answer": "no\nExamples:Question: What is the recommended treatment for a patient with a history of alcohol abuse and a serum alcohol level of 1000 mg/dL?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nDo not provide any explanations.\nAnswer: yes\n\nExamples",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?",
+    "answer": "no\nExamples:Question: Is the United States a federal republic?\nAnswer: no\nAnswer based on the above examplesQuestion: Does the United States have a federal system of government?\nAnswer: no\nExamples:Question: Does the United States have a parliamentary system of government?\nAnswer: no\nExamples:Question:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?",
+    "answer": "no\n\nExamples:Question: What is the role of the thymus in the immune system?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the role of the thymus in the immune system?\nAnswer: no\nAnswer: no\n\nExamples:Question: What is the role of the",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Do cytokines have any role in epilepsy?",
+    "answer": "no\nBased on the examples provided, the answer is \"no\". The examples suggest that when the question is about whether a procedure (like double reading of barium enemas) is necessary, the answer is \"no\". Similarly, for the question about cytokines and epilepsy, the answer is \"no\" as it",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+    "answer": "no\nThe user is asking if starting insulin in type 2 diabetes is necessary. The answer is no, because it's not necessary to start insulin in type 2 diabetes. It's more common to manage type 2 diabetes with lifestyle changes and oral medications. However, if the patient has severe hyperglycemia",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are wandering and physically nonaggressive agitation equivalent?",
+    "answer": "no\n\nExamples:Question: What is the function of the sternum?\nAnswer: Answer only one word from the following options: heart, lungs, skeleton, digestive tract, blood, brain, liver, stomach, spleen, ribs, vertebrae, skin, trachea, sternum, thyroid, th",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+    "answer": "no\n\nExamples:Question: What is the difference between a primary and a secondary source?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the difference between a primary and a secondary source?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the difference between a primary and a secondary",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?",
+    "answer": "no\n\nExamples:Question: Do you know the name of the person who was the first to discover the structure of DNA?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the name of the first person to discover the structure of DNA?\nAnswer: no\n\nExamples:Question: What is the capital",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is zero central line-associated bloodstream infection rate sustainable?",
+    "answer": "no\n\nExamples:Question: Are there any known cases of a human being who has been exposed to a single particle of plutonium-239?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any known cases of a human being who has been exposed to a single particle of plutonium-",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?",
+    "answer": "no\nExamples:Question: Is there a difference in the risk of developing breast cancer between women who have had a mastectomy and those who have had a lumpectomy?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a difference in the risk of developing breast cancer between women who have had a",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+    "answer": "no\nAnswer based on the above examplesQuestion: What is the name of the enzyme that catalyzes the reaction of the Krebs cycle?\nAnswer: Answer only one word from the following options: citrate synthase, isocitrate dehydrogenase, succinate dehydrogenase, or alpha-k",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+    "answer": "no\nAnswer based on the above examplesQuestion: Does the Celiac Disease have a Role in the Development of Ulcerative Colitis?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the Use of a Suction Catheter in the Delivery of Oxygen Required in the Management of a Patient with a Persistent",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?",
+    "answer": "no\nExamples:Question: Is there a role for transcranial Doppler ultrasound in the management of patients with acute ischemic stroke?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a role for transcranial Doppler ultrasound in the management of patients with acute ischemic stroke?\nAnswer:",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?",
+    "answer": "no\n\nExamples:Question: What is the usual dose of hydrochlorothiazide for adults?\nAnswer: 12.5 mg to 25 mg twice daily, or 25 mg to 50 mg once daily\nAnswer: no\nAnswer based on the above examplesQuestion: Is the following",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?",
+    "answer": "no\nExamples:Question: Is the use of a 500 mL bag of lactated Ringers solution for administering fluids during surgery necessary?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a 500 mL bag of lactated Ringers solution for administering fluids during surgery",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?",
+    "answer": "no\nExamples:Question: Is there a known association between the use of anticoagulants and the development of acute respiratory distress syndrome (ARDS) in patients with sepsis?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\nExamples:Question:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+    "answer": "no\nBased on the previous examples, the model is to answer \"no\" when the answer is not \"yes\" or \"no\" but \"maybe\". So, the model should answer \"no\" for the question \"Therapeutic anticoagulation in the trauma patient: is it safe?\" \n\nBut the",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does the leukocyte count correlate with the severity of injury?",
+    "answer": "no\n\nThe given answer is correct.\nThe given answer is correct.\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?",
+    "answer": "no\nThe user has a history of repeated episodes of acute bronchitis and asthma. He has been diagnosed with asthma and chronic bronchitis. He has no history of any other chronic diseases. He is currently on a daily dose of inhaled corticosteroid (ICS) and a long-acting beta-",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Preoperative platelet count in esophageal squamous cell carcinoma: is it a prognostic factor?",
+    "answer": "no\nExample:Question: Are there any other causes of acute abdomen besides appendicitis?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any other causes of acute abdomen besides appendicitis?\nAnswer: no\nAnswer based on the above examplesQuestion: Are there any other causes of acute abdomen",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?",
+    "answer": "no\nExamples:Question: What is the most common cause of death in patients with chronic obstructive pulmonary disease (COPD)?\nAnswer: Answer only one word from the above options: asthma, chronic obstructive pulmonary disease, emphysema, heart failure, lung cancer, or wheezing\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?",
+    "answer": "no\nExamples:Question: What is the difference between the terms \"sacrum\" and \"coccyx\"?\nAnswer: Answer only one word from the following options: anatomy, biology, medicine, physiology\nAnswer: anatomy\nExamples:Question: What is the difference between the terms \"sacrum\"",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?",
+    "answer": "no\nExample: Question: Is the treatment of acute lymphoblastic leukemia with intrathecal administration of methotrexate associated with a higher risk of infection?\nAnswer: no\nAnswer: maybe\nExample: Question: Does the use of inhaled corticosteroids in patients with asthma reduce the risk of asthma",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Diagnostic characteristics of child bipolar I disorder: does the \"Treatment of Early Age Mania (team)\" sample generalize?",
+    "answer": "no\nExamples:Question: What is the role of the central nucleus of the amygdala in the emotional processing of social information?\nAnswer: no\nAnswer based on the above examplesQuestion: What is the role of the central nucleus of the amygdala in the emotional processing of social information?\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?",
+    "answer": "no\n\nExamples:Question: Is the use of the term \"surgical\" in the definition of \"surgery\" an example of a red herring?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the use of the term \"surgical\" in the definition of \"surgery\" an example",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?",
+    "answer": "no\nExamples:Question: Is there a link between a person's height and their risk of developing a certain disease?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a link between a person's height and their risk of developing a certain disease?\nAnswer: no\nAnswer only one word from the",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Could ESC (Electronic Stability Control) change the way we drive?",
+    "answer": "yes\nExample Question: What is the most common type of cancer in the United States?\nAnswer: lung\nExample Question: What is the most common type of cancer in the United States?\nAnswer: lung\nExample Question: What is the most common type of cancer in the United States?\nAnswer: lung\nExample Question",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?",
+    "answer": "no\nExamples:Question: Is the use of a transrectal ultrasound for the evaluation of the prostate cancer a valid alternative to MRI?\nAnswer: no\nAnswer based on the above examplesQuestion: Is the use of a transrectal ultrasound for the evaluation of the prostate cancer a valid alternative to MRI?\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Sternal skin conductance: a reasonable surrogate for hot flash measurement?",
+    "answer": "no\nExample:Question: Is the use of a digital rectal exam a standard part of the physical examination?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the use of a digital rectal exam a standard part of the physical examination?\nAnswer: yes\nAnswer based on the above examplesQuestion:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+    "answer": "no\nBased on the examples, what is the correct answer for the question: Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?\n\nAnswer: no\n\nThe examples provided in the prompt suggest that the correct answer to the question \"Memory-provoked rCBF-SPECT as a",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?",
+    "answer": "no\nBased on the examples, the answer is: no\n\nExamples:Question: Which of the following is the most common type of the following: 1. Cervical spondylosis 2. Cervical spinal stenosis 3. Cervical myelopathy 4. C",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?",
+    "answer": "no\nExamples:Question: Is the following statement correct: \"The first president of the United States was George Washington.\"?\nAnswer: yes\nAnswer based on the above examplesQuestion: Is the following statement correct: \"The first president of the United States was George Washington.\"?\nAnswer: yes\nAnswer based on the",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?",
+    "answer": "no\nExamples:Question: Is there a known cure for multiple sclerosis?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a known cure for multiple sclerosis?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a known cure for multiple sclerosis?\nAnswer: no\nAnswer based on",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+    "answer": "no\nExample:Question: Does the use of antacids cause constipation?\nAnswer: yes\nAnswer: no\nAnswer: maybe\n\nThe examples provided in the instruction are as follows:\n\n1. Question: What is the function of the mitochondria?\nAnswer: yes\n2. Question: What is the function",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does Paget's disease exist in India?",
+    "answer": "no\n\nExamples:Question: What is the function of the liver?\nAnswer: Answer only one word from the following options: respiration, digestion, excretion, reproduction, elimination, secretion, excretion, homeostasis\nAnswer: excretion\n\nExamples:Question: What is the function of the stomach?\nAnswer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are there associations of health status, disease activity and damage in SLE patients?",
+    "answer": "no\nExamples:Question: Is there a link between the use of anticoagulants and the development of atherosclerosis?\nAnswer: no\nAnswer based on the above examplesQuestion: Is there a link between the use of anticoagulants and the development of atherosclerosis?\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is aerobic workload positively related to ambulatory blood pressure?",
+    "answer": "no\n\nExamples:Question: Is there a link between the use of a pacemaker and the development of atherosclerosis?\nAnswer: Answer only one word from the above options: yes, no, or maybe\nAnswer: maybe\n\nExamples:Question: Does the use of a proton pump inhibitor (PPI) increase",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can patients be anticoagulated after intracerebral hemorrhage?",
+    "answer": "no\n\nExamples:Question: What is the most common cause of acute respiratory failure?\nAnswer: Answer only one word from the following options: asthma, chronic obstructive pulmonary disease, pneumonia, or sepsis\nAnswer: chronic obstructive pulmonary disease\n\nExamples:Question: What is the most common cause of acute respiratory",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?",
+    "answer": "no\nExamples:Question: Is the use of a single intravenous dose of vancomycin for treating a bloodstream infection in a patient with a prosthetic joint infection reasonable?\nAnswer: Answer only one word from the above options: yes, no, or maybe\nAnswer: no\nExamples:Question: Is the use",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+    "answer": "no\nExamples:Question: What is the most common cause of acute renal failure in the elderly?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\nExamples:Question: What is the most common cause of acute renal failure in the elderly?\nAnswer: Answer only",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Do somatic complaints predict subsequent symptoms of depression?",
+    "answer": "no\n\nExamples:Question: Are there any known cases of a person being born with a heart defect?\nAnswer: Answer only one word from the following options: yes, no, or maybe\nAnswer: maybe\n\nExamples:Question: Is the statement \"The United States is a federal republic\" true?\nAnswer: Answer",
+    "prediction": "no",
+    "label": "maybe"
+  }
+]

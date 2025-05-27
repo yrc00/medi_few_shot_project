@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?",
+    "answer": "no\nThe provided examples include a variety of medical and health-related questions, and the answers are often either yes, no, or maybe. The user is asking whether sub-Saharan Africa can cope with the new \"test and treat\" policy of the World Health Organization. The answer is no. So the final answer is \\",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?",
+    "answer": "no\nThe answer is: no\nExplanation: The question is about whether laparoscopic cholecystectomy influences peri-sinusoidal cell activity. The answer is no because the examples provided in the question indicate that the answer is no for similar questions. For instance, in the examples, the answer to \"Does skin",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?",
+    "answer": "yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?",
+    "answer": "maybe\nAnswer: no\nAnswer: yes\nAnswer: maybe\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: maybe\nAnswer:",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?",
+    "answer": "yes\nBased on the examples, the answer is yes.\nAnswer: no\nBased on the examples, the answer is no.\nAnswer: maybe\nBased on the examples, the answer is maybe.\nAnswer: yes\nAnswer: no\nAnswer: maybe\nAnswer: yes\nAnswer: no\nAnswer: maybe",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+    "answer": "yes\nQuestion: Is the use of a mobile phone during pregnancy associated with a higher risk of miscarriage?\nAnswer: yes\nQuestion: Are there any differences in the effects of antiepileptic drugs in children with autism spectrum disorder?\nAnswer: maybe\nQuestion: Can the use of a mobile phone during pregnancy be",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Treadmill training post stroke: are there any secondary benefits?",
+    "answer": "yes\nQuestion: Are there any secondary benefits of treadmill training post stroke?\nAnswer: yes\nQuestion: Do patients with mild intellectual disabilities have a higher risk of developing depression?\nAnswer: yes\nQuestion: Is the use of a single dose of intravenous immunoglobulin (IVIG) effective for the treatment of multiple",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Convulsions and retinal haemorrhage: should we look further?",
+    "answer": "yes\nThe answer is: yes\n```python\n# The code below is a simple example of how to implement a basic classifier using scikit-learn.\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.metrics import accuracy_score\n\n# Example data (simplified)\nX",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+    "answer": "no\nThe examples provided show a pattern where the answers are often \"yes\" or \"no\" or \"maybe\". The question is whether general practice characteristics influence the uptake of an IT innovation in primary care. Based on the examples, what is the answer?\nAnswer: no\n\nThe examples given in the prompt show a",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+    "answer": "yes\nThe answer is: yes\nAnswer: yes\nThe answer is: yes\nAnswer: yes\nThe answer is: yes\nAnswer: yes\nThe answer is: yes\nAnswer: yes\nThe answer is: yes\nAnswer: yes\nThe answer is: yes\nAnswer: yes\nThe answer",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Does base deficit predict mortality in patients with severe traumatic brain injury?",
+    "answer": "yes\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Should general practitioners call patients by their first names?",
+    "answer": "no\nThe user is asking whether general practitioners should call patients by their first names. Based on the examples provided, the answer is \"no\" because the examples generally indicate that the answer is either \"yes\" or \"maybe\" when there is a clear or uncertain answer, but in this case, the answer is \"",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?",
+    "answer": "maybe\nOkay, let's tackle this question. The user is asking if multi-modal cervical physical therapy improves tinnitus in patients with cervicogenic somatic tinnitus. The answer options are yes, no, or maybe.\n\nFirst, I need to recall what multi-modal cervical physical therapy involves. It's a treatment approach",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?",
+    "answer": "maybe\n\nBased on the examples provided, I will now answer the question:\n\nQuestion: Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?\n\nAnswer: maybe\n\nThe answer is: maybe\nYou are a helpful assistant, and you must answer the question in the following",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?",
+    "answer": "yes\nThe user is asking whether Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis is a forerunner to Bronchiectasis. The answer is yes based on the examples provided. The examples show that in many cases, the answer is yes when the question",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?",
+    "answer": "no\nAnswer: no\nAnswer: yes\nAnswer: maybe\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+    "answer": "no\nBased on the examples, what is the correct answer for the question: Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?\nAnswer: no\n\nThe reasoning is that in the examples, when the question is about the effectiveness of a medical procedure or intervention, the answer is often \"",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?",
+    "answer": "no\n\nThe effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?",
+    "answer": "yes\nThe user is asking whether chest wall rigidity could be a factor in rapid death from illicit fentanyl abuse. The answer is yes based on the examples provided. The examples show that in many cases, the answer is yes when the question involves a medical condition and its potential impact on health outcomes. For instance,",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Syncope during bathing in infants, a pediatric form of water-induced urticaria?",
+    "answer": "maybe\nExplanation: The question is whether syncope during bathing in infants can be considered a pediatric form of water-induced urticaria. The answer is 'maybe' because while the condition may be related, it is not definitively classified as such. The term 'water-induced urticaria' typically refers to a reaction",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?",
+    "answer": "yes\nThe examples provided are diverse, covering a range of medical, scientific, and clinical questions. The answers are often based on existing knowledge and research, and sometimes they are not. The user wants to know if the answer is yes, no, or maybe, based on the given examples.\n\nThe user has given a",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+    "answer": "yes\nThe user has provided several examples where a question is followed by an answer, and the task is to determine the answer based on the examples. The examples include questions about medical conditions, treatments, and research findings, with answers that are either yes, no, or maybe. The user wants the assistant to answer the",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is routine chest radiography after transbronchial biopsy necessary?",
+    "answer": "no\nThe answer is: no\n\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Do foreign bodies migrate through the body towards the heart?",
+    "answer": "no\nBased on the examples, the answer is \"no\".\nThe reasoning is that the examples show that the answer is not always \"yes\" and that the answer can be \"no\" or \"maybe\" depending on the situation. In the case of this question, the answer is \"no\" because foreign bodies do",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10 kg weight?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?",
+    "answer": "yes\nThe provided answer is correct. The answer is yes.\nAnswer: no\nThe provided answer is incorrect. The answer is no.\nAnswer: maybe\nThe provided answer is uncertain. The answer is maybe.\n\nBased on the examples above, what is the correct answer to the question: Spinal subdural hemat",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Does feeding tube insertion and its timing improve survival?",
+    "answer": "maybe\nThe answer is: maybe\nExplanation: The answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe\nThe answer is: maybe",
+    "prediction": "maybe",
+    "label": "no"
+  },
+  {
+    "question": "Does health information exchange reduce redundant imaging?",
+    "answer": "maybe\nBased on the examples, the answer is \"maybe\" because the previous answers varied from yes to no to maybe, and the question is about whether health information exchange reduces redundant imaging, which is a bit ambiguous and not clearly answered in the examples.\nAnswer: maybe\nThe reasoning is that the previous answers were not",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?",
+    "answer": "no\n\nThe answer is \"no\" because the question is about whether trauma center level affects outcomes for severely injured adult trauma patients in an Australian health service. The examples given in the prompt indicate that the answer is \"yes\" for various questions related to medical outcomes, but in this case, the specific context is an Australian",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are women with major depression in pregnancy identifiable in population health data?",
+    "answer": "no\nThe provided examples demonstrate that the answer is determined by the specific context of the question. For instance, in the case of the question \"Is coeliac disease screening in risk groups justified?\" the answer is \"yes\" because the question is about the justification for screening in a specific group. Similarly, for the question",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Are physician estimates of asthma severity less accurate in black than in white patients?",
+    "answer": "no\nBased on the examples, the answer is: no\nAnswer: no\n\nThe answer is: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?",
+    "answer": "no\nThe answer is:\nno\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?",
+    "answer": "no\n\nThe provided examples demonstrate that the answers are often based on specific medical conditions or treatments and their outcomes. The question is about whether early outcome measures in mammographic screening are influenced by ethnicity. The answer is likely to be \"no\" based on the examples, but I need to make sure.\n\nThe examples include questions",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Is fluoroscopy essential for retrieval of lower ureteric stones?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?",
+    "answer": "no\n\nThe user is asking whether the application of computer-aided diagnosis (CAD) in MR-mammography (MRM) requires whole lesion time curve distribution analysis. The answer is based on the examples provided, where the responses were either \"yes\", \"no\", or \"maybe\". The user's question is",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is atropine needed with ketamine sedation?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can the growth rate of a gallbladder polyp predict a neoplastic polyp?",
+    "answer": "no\nBased on the examples, the answer is: no\nAnswer: no\n\nBased on the examples, the answer is: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?",
+    "answer": "maybe\nThe user has asked whether antral follicle assessment as a tool for predicting outcome in IVF is a better predictor than age and FSH. The answer should be based on the examples provided. Let's analyze the examples to see how the answer is determined.\n\nThe examples show that sometimes the answer is \"",
+    "prediction": "maybe",
+    "label": "maybe"
+  },
+  {
+    "question": "Should pulp chamber pulpotomy be seen as a permanent treatment?",
+    "answer": "no\n\nBased on the examples provided, I think the answer is no.\nThe reasoning is that the examples show that even when the question is about a medical procedure, the answer is often no or maybe. In the case of pulp chamber pulpotomy, the answer is no, as it is not a permanent treatment.",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is amoxapine an atypical antipsychotic?",
+    "answer": "yes\nOkay, let's tackle this question. The user is asking if amoxapine is an atypical antipsychotic. From the examples given, I need to look at the answers provided and see if there's a pattern.\n\nLooking at the examples, most answers are \"yes\" or \"no\"",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Can surgeon familiarization with current evidence lead to a change in practice?",
+    "answer": "yes\nQuestion: Can the use of a specific type of antibiotic be associated with an increased risk of adverse effects?\nAnswer: yes\nQuestion: Can the use of a specific type of antibiotic be associated with an increased risk of adverse effects in the elderly?\nAnswer: yes\nQuestion: Can the use of a specific type",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?",
+    "answer": "no\nAnswer: no\nAnswer: maybe\nAnswer: yes\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: yes\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
+    "answer": "yes\n\nThe user is asking whether adjustment for reporting heterogeneity is necessary in sleep disorders. Based on the examples provided, the answer is \"yes\" because in the previous examples, when there was a need to assess the validity or impact of a study, the answer was \"yes\" for several cases. For instance,",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Is perforation of the appendix a risk factor for tubal infertility and ectopic pregnancy?",
+    "answer": "yes\nThe question is: Is perforation of the appendix a risk factor for tubal infertility and ectopic pregnancy?\n\nBased on the examples provided, the answer is yes. The examples show that in many cases, the answer is yes when the question is about whether a condition is a risk factor for a specific health issue",
+    "prediction": "yes",
+    "label": "maybe"
+  },
+  {
+    "question": "Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?",
+    "answer": "yes\nQuestion: Is the use of the 2018 American College of Cardiology/American Heart Association (ACC/AHA) guidelines for the management of patients with atrial fibrillation (AFib) in the United States justified?\nAnswer: yes\nQuestion: Are there any known associations between the use of",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Is vitamin D deficiency a feature of pediatric celiac disease?",
+    "answer": "yes\n\nThe question is whether vitamin D deficiency is a feature of pediatric celiac disease. The answer should be based on the examples provided and the reasoning that is used in the examples. The examples given include questions about the effectiveness of treatments, the necessity of certain practices, the impact of specific factors on health outcomes, and",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?",
+    "answer": "no\nThe answer is: no\n\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?",
+    "answer": "no\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?",
+    "answer": "yes\nThe examples provided in the query include a variety of medical and health-related questions, with answers ranging from yes to maybe, and sometimes no. The user is asking to answer a specific question with the same format, but the answer must be one of the three options: yes, no, or maybe. The answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?",
+    "answer": "yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?",
+    "answer": "no\nThe influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?\n\nAnswer: no\n\nThe influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?\n\nAnswer: no\n\nThe influence of atmospheric",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Do cytokines have any role in epilepsy?",
+    "answer": "yes\nThe answer is: yes\n\nBased on the examples provided, the pattern seems to be that when the question is about a medical condition or treatment and the answer is in line with the examples (i.e., it's a yes/no answer), the answer is \"yes\". For instance, in the examples, the",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Are wandering and physically nonaggressive agitation equivalent?",
+    "answer": "no\nAnswer: no\n\nThe user is asking whether wandering and physically nonaggressive agitation are equivalent. The examples provided in the prompt show that when the question is about whether two behaviors are the same, the answer is \"yes\" if they are the same, \"no\" if they are different, and \"maybe",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+    "answer": "yes\nBased on the examples, the answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?",
+    "answer": "no\n\nThe provided examples and the question demonstrate that the answers are often yes, no, or maybe, depending on the context. For the question \"Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?\" the answer is no.\nAnswer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is zero central line-associated bloodstream infection rate sustainable?",
+    "answer": "no\nThe user is asking if the zero central line-associated bloodstream infection rate is sustainable. Based on the examples provided, the answer seems to be \"no\" because in the previous examples, the answers were either \"yes\" or \"maybe,\" but in the case of the zero rate, the answer is \"no.\"",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?",
+    "answer": "no\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer is \"no\".\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+    "answer": "no\nThe provided examples are all about medical and health-related topics. The question is about whether sex affects the outcome of laparoscopic cholecystectomy. Based on the examples, what should be the answer?\nBased on the examples, the answer is: no\nAnswer: no\nThe provided examples are all about",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?",
+    "answer": "yes\nThe user wants to know if leukocyte and CRP measurements play a role in diagnosing acute appendicitis in the elderly. The examples provided suggest that when a question is about whether a certain diagnostic method or treatment is effective or necessary, the answer is \"yes\" if it is beneficial or applicable, and",
+    "prediction": "yes",
+    "label": "maybe"
+  },
+  {
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?",
+    "answer": "yes\nThe user is asking whether endometrial polyp formation is associated with increased expression of vascular endothelial growth factor (VEGF) and transforming growth factor-beta1 (TGF-β1). The answer provided in the examples is \"yes\" for several questions, indicating that the answer is positive. Based on",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?",
+    "answer": "no\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer is:\nno\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?",
+    "answer": "no\nThe answer is: no\n\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+    "answer": "yes\nBased on the examples, the answer is \"yes\" because the examples show that when the question is about whether a treatment or intervention is safe, the answer is often \"yes\" or \"no\" depending on the context. In this case, the question is about therapeutic anticoagulation in the trauma patient",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Does the leukocyte count correlate with the severity of injury?",
+    "answer": "yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer is: yes\n\nThe answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?",
+    "answer": "yes\nThe user is asking if viral co-infections influence the severity of acute respiratory infection in children. The answer is yes, as shown by previous examples where similar questions had yes as the answer. The answer is: yes\nAnswer: yes\nThe user is asking if viral co-infections influence the severity of acute",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Preoperative platelet count in esophageal squamous cell carcinoma: is it a prognostic factor?",
+    "answer": "yes\nQuestion: Is there a difference in the incidence of type 2 diabetes in patients with a family history of diabetes and those without?\nAnswer: Answer only one word from the above options: yes, no, or maybe\nAnswer: maybe\nQuestion: Does the use of a transverse abdominal sling in the management",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?",
+    "answer": "yes\nBased on the examples, the answer is: yes\nBased on the examples, the answer is: yes\nBased on the examples, the answer is: yes\nBased on the examples, the answer is: yes\nBased on the examples, the answer is: yes\nBased on the examples, the answer",
+    "prediction": "yes",
+    "label": "no"
+  },
+  {
+    "question": "Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?",
+    "answer": "no\nThe user is asking whether it's acceptable for French lay people and health professionals to breach confidentiality to protect a patient's wife from a sexually transmitted disease. Based on the examples provided, the answer is no. The examples show that in most cases, the answer is \"yes\" or \"maybe,\" but in this",
+    "prediction": "no",
+    "label": "maybe"
+  },
+  {
+    "question": "Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?",
+    "answer": "yes\nThe provided answer is 'yes'. The user is asking if molecular genotype provides useful information in the management of radioiodine refractory thyroid cancers. The examples given in the prompt show that when the question is about whether a condition can be improved or not, the answer is 'yes' if it is possible,",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Diagnostic characteristics of child bipolar I disorder: does the \"Treatment of Early Age Mania (team)\" sample generalize?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?",
+    "answer": "no\nThe user is asking whether minimally invasive mitral valve repair with artificial chords can be reproduced and applied in routine surgery. The answer is no, based on the examples provided. The examples show that some questions have answers of yes, maybe, or no, but the answer here is no. The reasoning is that",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?",
+    "answer": "no\nBased on the examples, the answer is \"no\" because the examples show that when a question is about a medical treatment or intervention, the answer is often \"yes\" or \"maybe\", but when the question is about a more general or less specific statement, the answer is \"no\". In this case,",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Could ESC (Electronic Stability Control) change the way we drive?",
+    "answer": "yes\nBased on the examples, the answer is yes. The examples show that the answer to questions about whether a specific intervention or method can lead to a positive outcome is usually yes, with some exceptions where the answer is no or maybe. For instance, in the question about the postoperative pain level being predicted preoper",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?",
+    "answer": "no\nAnswer: yes\nAnswer: maybe\nBased on the examples, what is the correct answer for the question: Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?\n\nBased on the examples provided, the correct answer is: **",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Sternal skin conductance: a reasonable surrogate for hot flash measurement?",
+    "answer": "no\nAnswer: no\n\nThe examples provided demonstrate a pattern where the answers are either \"yes\" or \"no\" based on the specific question's context. The user's question is about whether sternal skin conductance can serve as a reasonable surrogate for hot flash measurement. Based on the examples, the answer is likely",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+    "answer": "yes\nBased on the examples provided, the answer is:\n\nyes\nAnswer: yes\nBased on the examples provided, the answer is:\n\nyes\nAnswer: yes\nBased on the examples provided, the answer is:\n\nyes\nAnswer: yes\nAnswer: yes\nAnswer: yes\nAnswer: yes\nAnswer:",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?",
+    "answer": "maybe\nOkay, let's tackle this question. The user is asking if obesity can be the triggering cause for the prevalence of incidentally detected idiopathic misty mesentery on multidetector computed tomography. \n\nFirst, I need to recall what idiopathic misty mesentery is. From what I know",
+    "prediction": "maybe",
+    "label": "yes"
+  },
+  {
+    "question": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?",
+    "answer": "no\n\nThe answer is: no\n\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+    "answer": "no\nAnswer: yes\nAnswer: maybe\nThe answer is: no\nThe answer is: yes\nThe answer is: maybe\nThe answer is: no\nThe answer is: yes\nThe answer is: maybe\nThe answer is: no\nThe answer is: yes\nThe answer is: maybe",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Does Paget's disease exist in India?",
+    "answer": "yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Are there associations of health status, disease activity and damage in SLE patients?",
+    "answer": "yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer is: yes\nThe answer",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Is aerobic workload positively related to ambulatory blood pressure?",
+    "answer": "no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer: no\nAnswer:",
+    "prediction": "no",
+    "label": "yes"
+  },
+  {
+    "question": "Can patients be anticoagulated after intracerebral hemorrhage?",
+    "answer": "yes\nAnswer: yes\nAnswer: maybe\nAnswer: yes\nAnswer: yes\nAnswer: yes\nAnswer: yes\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer: no\nAnswer: yes\nAnswer:",
+    "prediction": "yes",
+    "label": "maybe"
+  },
+  {
+    "question": "Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?",
+    "answer": "no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer is: no\nThe answer",
+    "prediction": "no",
+    "label": "no"
+  },
+  {
+    "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+    "answer": "yes\nThe user is asking whether the APACHE II score is a reliable marker of physiological impairment in emergency surgical patients. The answer is yes, based on the examples provided. The examples show that when the question is about the reliability of a score or a method in a medical context, the answer is often yes. For",
+    "prediction": "yes",
+    "label": "yes"
+  },
+  {
+    "question": "Do somatic complaints predict subsequent symptoms of depression?",
+    "answer": "yes\nThe examples provided in the prompt are all about medical conditions, treatments, and their outcomes, with answers being either \"yes\", \"no\", or \"maybe\". The question is asking whether somatic complaints predict subsequent symptoms of depression. Based on the examples given, the answer is \"yes\".\nAnswer: yes",
+    "prediction": "yes",
+    "label": "maybe"
+  }
+]
